@@ -1,0 +1,6 @@
+qb epa doesnt take into account qb replacements or benchings, starting qb will receive all stats
+is it worth it to take into account short vs deep passing, and run locations? or is that getting too granular
+should i take into account penalties?
+should i take into account things like home stadium, outdoor vs indoor, weather, etc.?
+take into account fourth down stop as turnover? 
+take into account number of punts?
