@@ -4,3 +4,12 @@ should i take into account penalties?
 should i take into account things like home stadium, outdoor vs indoor, weather, etc.?
 take into account fourth down stop as turnover? 
 take into account number of punts?
+
+Notes on rushing value model: 
+Uses score>23 as the rb win column. Logic here is that rushing isnt necessarily a great predictor of which team wins the game, and the coefficient ended up being a bit wonky on the logistic regression. Reduced it to just be rushing attempts and rushing epa and that seems to give a pretty good rb value, consistent with more or less what you'd expect to see. 
+
+Notes on defense models: 
+Currently doing things on a per play basis - this gives the best actual value of how a defense performs, however, fails to take into account how often a defense is on the field. For example - colts defense in 2022 has a good run defense, but since the offense cant sustain drives they are on the field a lot. On a per play basis, they are very good, but total defense wise they may not be. How to determine defensive value here becomes tricky.
+
+Notes for offense models: 
+May want to switch to doing things on a per play basis as well.
