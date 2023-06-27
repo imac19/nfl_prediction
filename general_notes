@@ -15,3 +15,11 @@ Maybe want to account for opposing qb in defense models?
 
 Notes for offense models: 
 May want to switch to doing things on a per play basis as well.
+
+Note on the adjusted model:
+Since the adjusted model uses the rolling 6 game stats to adjust, the data will only start from week 3
+past 6 game rolling has its first data for week 2 (since it needs week 1 to finish to get any data)
+then, adjusted model needs to wait one more week since week 2 is the first week we can adjust data 
+thus week 3 is the first week usable for prediction
+
+After changing the adjusted model to the one qb per week, theres some qb def adjusted values that are null. Could replace these values with the original non adjusted value, or just leave it since the rolling average should factor that in. But it means we lose that row of data. I think doing some sort of replacement might make sense, maybe knock the def value down a bit since this means they played a rookie or backup qb most likely
