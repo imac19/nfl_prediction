@@ -23,3 +23,9 @@ then, adjusted model needs to wait one more week since week 2 is the first week 
 thus week 3 is the first week usable for prediction
 
 After changing the adjusted model to the one qb per week, theres some qb def adjusted values that are null. Could replace these values with the original non adjusted value, or just leave it since the rolling average should factor that in. But it means we lose that row of data. I think doing some sort of replacement might make sense, maybe knock the def value down a bit since this means they played a rookie or backup qb most likely
+
+some possible features to add (may help everywhere, but probably will mostly help for total points):
+- some measure of pace of play (avg offensive plays/possesion time, plays per minute, etc.)
+- same as above but the equivalent defensive stats
+- pass percentage/run percentage
+- opposing pass percentage/run percentage

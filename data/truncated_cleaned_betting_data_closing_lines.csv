@@ -1,4 +1,4 @@
-,date,home_team,away_team,home_score,away_score,total_score,home_moneyline,away_moneyline,home_spread,away_spread,total_score,over_under_result,home_team_actual_line,away_team_actual_line,spread_cover_result,home_implied_prob,away_implied_prob,game_winner
+,date,home_team,away_team,home_score,away_score,total_score_actual,home_moneyline,away_moneyline,home_spread,away_spread,total_score_line,over_under_result,home_team_actual_line,away_team_actual_line,spread_cover_result,home_implied_prob,away_implied_prob,game_winner
 0,2023-02-12,Philadelphia Eagles,Kansas City Chiefs,35,38,73,-120.0,100.0,-1.0,1.0,51.5,over,3,-3,away,0.5454545454545454,0.5,away
 1,2023-01-29,Kansas City Chiefs,Cincinnati Bengals,23,20,43,-130.0,110.0,-2.0,2.0,48.5,under,-3,3,home,0.5652173913043478,0.47619047619047616,home
 2,2023-01-29,Philadelphia Eagles,San Francisco 49ers,31,7,38,-155.0,135.0,-3.0,3.0,45.0,under,-24,24,home,0.6078431372549019,0.425531914893617,home
