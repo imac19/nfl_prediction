@@ -37,17 +37,26 @@ passing = passing.merge(qb_lookup)
 qb_epa_mean = np.mean(passing.qb_epa)
 qb_epa_std = np.std(passing.qb_epa)
 passing['qb_epa_standardized'] = passing.apply(lambda x: (x.qb_epa - qb_epa_mean)/qb_epa_std, axis=1)
-
 passing['qb_epa_per_attempt'] = passing.apply(lambda x: x.qb_epa/(x.total_pass_attempts + x.total_qb_rush_attempts), axis=1)
+
+passing_epa_mean = np.mean(passing.passing_epa)
+passing_epa_std = np.std(passing.passing_epa)
+passing['passing_epa_standardized'] = passing.apply(lambda x: (x.passing_epa - passing_epa_mean)/passing_epa_std, axis=1)
+passing['passing_epa_per_attempt'] = passing.apply(lambda x: x.passing_epa/(x.total_pass_attempts), axis=1)
 
 passing_no_glennon = passing[passing.qb_epa_per_attempt >= -2.5]
 qb_epa_pa_mean = np.mean(passing_no_glennon.qb_epa_per_attempt)
 qb_epa_pa_std = np.std(passing_no_glennon.qb_epa_per_attempt)
+
+passing_epa_pa_mean = np.mean(passing_no_glennon.passing_epa_per_attempt)
+passing_epa_pa_std = np.std(passing_no_glennon.passing_epa_per_attempt)
+
 passing['qb_epa_per_attempt_standardized'] = passing.apply(lambda x: (x.qb_epa_per_attempt - qb_epa_pa_mean)/qb_epa_pa_std, axis=1)
+passing['passing_epa_per_attempt_standardized'] = passing.apply(lambda x: (x.passing_epa_per_attempt - passing_epa_pa_mean)/passing_epa_pa_std, axis=1)
 
 qb_to_save = passing.copy()
 qb_to_save['qb_value'] = qb_to_save.qb_epa_per_attempt_standardized
-qb_to_save.head()
+qb_to_save['passing_value'] = qb_to_save.passing_epa_per_attempt_standardized
 
 qb_to_save.to_csv('data/04_initial_qb_values.csv')
 
@@ -78,7 +87,7 @@ rb['rushing_epa_per_attempt_standardized'] = rb.apply(lambda x: (x.rushing_epa_p
 rb_to_save = rb.copy()
 rb_to_save['rushing_value'] = rb_to_save.rushing_epa_per_attempt_standardized
 
-rb_to_save.to_csv('04_initial_rushing_values.csv')
+rb_to_save.to_csv('data/04_initial_rushing_values.csv')
 
 # Pull out only the pass defense related stats
 

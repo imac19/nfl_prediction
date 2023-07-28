@@ -31,3 +31,10 @@ some possible features to add (may help everywhere, but probably will mostly hel
 - opposing pass percentage/run percentage
 
 weather may be important and can add that later, but at the very least should add a dome vs not dome variable
+
+need to rethink how the qb and passing stats are done. right now using qb epa, but this is essentially double counting rushing 
+stats since the qb runs are already included there. Furthermore the defense is split into pass and run not qb and run.
+Maybe just do passing and rushing, but tie both stats to the qb rather than just passing. This way if a running qb goes down, the team 
+won't assume to have the same rushing prowess with the backup qb
+
+double check - are sacks included in passing epa?
