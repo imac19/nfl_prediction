@@ -114,6 +114,22 @@ def weighted_avg(values):
     
     return np.sum(weights * values)
 
+# Uncomment and use this if even weights are desired
+
+def weighted_avg(values):
+    if len(values) == 1:
+        weights = np.array([1])
+    elif len(values) == 2:
+        weights = np.array([.5, .5])
+    elif len(values) == 3:
+        weights = np.array([.333, .333, .333])
+    elif len(values) == 4:
+        weights = np.array([.25, .25, .25, .25])
+    elif len(values) == 5:
+        weights = np.array([.2, .2, .2, .2, .5])
+    
+    return np.sum(weights * values)
+
 offense_base = df.copy()[['season', 'week', 'team', 'qb']]
 defense_base = df.copy()[['season', 'week', 'team']]
 

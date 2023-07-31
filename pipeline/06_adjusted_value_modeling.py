@@ -34,7 +34,7 @@ df = qb.merge(opposing_def, left_on=['season', 'week', 'opponent_full'],
 df = df.drop(columns=['team_full_opponent'])
 
 df[['pass_value_adjustment', 'passing_value_adjusted']] = df.apply(lambda x: value_adjustment(x.passing_value, x.pass_def_value, 
-                                original_value_percentage=.7, adjustment_threshold=.3), axis=1, result_type='expand')
+                                original_value_percentage=.8, adjustment_threshold=.2), axis=1, result_type='expand')
 
 df.to_csv('data/06_adjusted_qb_values.csv')
 
@@ -48,7 +48,7 @@ df = rb.merge(opposing_def, left_on=['season', 'week', 'opponent_full'],
 df = df.drop(columns=['team_full_opponent'])
 
 df[['rushing_adjustment', 'rushing_value_adjusted']] = df.apply(lambda x: value_adjustment(x.rushing_value, x.rush_def_value, 
-                                original_value_percentage=.7, adjustment_threshold=.3), axis=1, result_type='expand')
+                                original_value_percentage=.8, adjustment_threshold=.2), axis=1, result_type='expand')
 
 df.to_csv('data/06_adjusted_rushing_values.csv')
 
@@ -62,7 +62,7 @@ df = pass_def.merge(opposing_off, left_on=['season', 'week', 'opponent_full'],
 df = df.drop(columns=['team_full_opponent'])
 
 df[['pass_def_adjustment', 'pass_def_value_adjusted']] = df.apply(lambda x: value_adjustment(x.pass_def_value, x.passing_value, 
-                                original_value_percentage=.7, adjustment_threshold=.3), axis=1, result_type='expand')
+                                original_value_percentage=.8, adjustment_threshold=.2), axis=1, result_type='expand')
 
 df.to_csv('data/06_adjusted_pass_defense_values.csv')
 
@@ -76,7 +76,7 @@ df = rush_def.merge(opposing_off, left_on=['season', 'week', 'opponent_full'],
 df = df.drop(columns=['team_full_opponent'])
 
 df[['rush_def_adjustment', 'rush_def_value_adjusted']] = df.apply(lambda x: value_adjustment(x.rush_def_value, x.rushing_value, 
-                                original_value_percentage=.7, adjustment_threshold=.3), axis=1, result_type='expand')
+                                original_value_percentage=.8, adjustment_threshold=.2), axis=1, result_type='expand')
 
 df.to_csv('data/06_adjusted_rush_defense_values.csv')
 
