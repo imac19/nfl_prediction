@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 27 23:06:32 2023
+Created on Sun Jul 30 21:45:18 2023
 
-@author: imacd_0odruq3
+@author: ian
 """
 
 # Import packages
@@ -13,15 +14,14 @@ import os
 
 # Import data
 
-rb = pd.read_csv('data/04_initial_rushing_values.csv')
+rb = pd.read_csv('data/06_adjusted_rushing_values.csv')
 rb = rb.drop(columns = ['Unnamed: 0'])
-pass_def = pd.read_csv('data/04_initial_pass_defense_values.csv')
+pass_def = pd.read_csv('data/06_adjusted_pass_defense_values.csv')
 pass_def = pass_def.drop(columns = ['Unnamed: 0'])
-rush_def = pd.read_csv('data/04_initial_rush_defense_values.csv')
+rush_def = pd.read_csv('data/06_adjusted_rush_defense_values.csv')
 rush_def = rush_def.drop(columns = ['Unnamed: 0'])
-qb = pd.read_csv('data/04_initial_qb_values.csv')
+qb = pd.read_csv('data/06_adjusted_qb_values.csv')
 qb = qb.drop(columns = ['Unnamed: 0'])
-qb = qb.drop(columns = ['Unnamed: 0.1'])
 st = pd.read_csv('data/04_initial_st_values.csv')
 st = st.drop(columns = ['Unnamed: 0'])
 extra = pd.read_csv('data/04_initial_extra_values.csv')
@@ -30,10 +30,10 @@ extra = extra.drop(columns = ['Unnamed: 0'])
 # Put data into one data frame that just has the game identifiers and value numbers
 
 # qb = qb.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'qb', 'qb_value', 'passing_value']]
-qb = qb.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'qb', 'passing_value']]
-rb = rb.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'rushing_value']]
-pass_def = pass_def.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'pass_def_value']]
-rush_def = rush_def.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'rush_def_value']]
+qb = qb.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'qb', 'passing_value_adjusted']]
+rb = rb.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'rushing_value_adjusted']]
+pass_def = pass_def.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'pass_def_value_adjusted']]
+rush_def = rush_def.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'rush_def_value_adjusted']]
 st = st.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'special_teams_value']]
 extra = extra.copy()[['season', 'week', 'team', 'opponent', 'score', 'opponent_score', 'total_plays_standardized', 'total_possession_time_standardized', 'pass_percentage_standardized']]
 df = qb.copy()
@@ -94,7 +94,7 @@ df['opponent_full'] = df.apply(lambda x: fix_team_names(x, is_team=False), axis=
 
 # Save raw data frame with values
 
-df.to_csv('data/05_value_models_combined.csv')
+df.to_csv('data/07_adjusted_value_models_combined.csv')
 
 # Save data frame with past 5 games rolling stats
 
@@ -117,13 +117,13 @@ def weighted_avg(values):
 offense_base = df.copy()[['season', 'week', 'team', 'qb']]
 defense_base = df.copy()[['season', 'week', 'team']]
 
-offense_rolling = df[['team', 'qb', 'passing_value', 'rushing_value',
+offense_rolling = df[['team', 'qb', 'passing_value_adjusted', 'rushing_value_adjusted',
                      'total_plays_standardized', 'total_possession_time_standardized', 
                      'pass_percentage_standardized']]
 offense_rolling = offense_rolling.groupby(by=['team', 'qb']).rolling(
     5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team', 'qb'], drop=True)
 
-defense_rolling = df[['team', 'pass_def_value', 'rush_def_value', 'special_teams_value']]
+defense_rolling = df[['team', 'pass_def_value_adjusted', 'rush_def_value_adjusted', 'special_teams_value']]
 defense_rolling = defense_rolling.groupby(by=['team']).rolling(
     5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team'], drop=True)
 
@@ -138,6 +138,6 @@ combined['team_full'] = combined.apply(lambda x: fix_team_names(x, is_team=True)
 
 # Save aggregated data frame with values
 
-combined.to_csv('data/05_value_models_aggregated.csv')
+combined.to_csv('data/07_adjusted_value_models_aggregated.csv')
 
-print('05_value_models_combination_and_aggregation Complete')
+print('07_adjusted_value_models_combination_and_aggregation Complete')
