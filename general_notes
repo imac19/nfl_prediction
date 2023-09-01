@@ -40,3 +40,6 @@ won't assume to have the same rushing prowess with the backup qb
 double check - are sacks included in passing epa?
 
 should i adjust ratings, then use the adjusted ratings to adjust a second time?
+
+possible for deciding best model: loss function (bigger penalties for more confident wrong guesses) and/or confidence difference 
+between right and wrong guesses
