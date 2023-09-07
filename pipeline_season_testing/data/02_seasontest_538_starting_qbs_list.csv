@@ -1,0 +1,285 @@
+,date,season,home,away,home_score,away_score,home_qb,away_qb,home_qb_abv,away_qb_abv
+17095,2022-09-08,2022,Los Angeles Rams,Buffalo Bills,10,31,Matthew Stafford,Josh Allen,M. Matthew Stafford,J. Josh Allen
+17096,2022-09-11,2022,Miami Dolphins,New England Patriots,20,7,Tua Tagovailoa,Mac Jones,T. Tua Tagovailoa,M. Mac Jones
+17097,2022-09-11,2022,Cincinnati Bengals,Pittsburgh Steelers,20,23,Joe Burrow,Mitch Trubisky,J. Joe Burrow,M. Mitch Trubisky
+17098,2022-09-11,2022,Atlanta Falcons,New Orleans Saints,26,27,Marcus Mariota,Jameis Winston,M. Marcus Mariota,J. Jameis Winston
+17099,2022-09-11,2022,New York Jets,Baltimore Ravens,9,24,Joe Flacco,Lamar Jackson,J. Joe Flacco,L. Lamar Jackson
+17100,2022-09-11,2022,Carolina Panthers,Cleveland Browns,24,26,Baker Mayfield,Jacoby Brissett,B. Baker Mayfield,J. Jacoby Brissett
+17101,2022-09-11,2022,Washington Football Team,Jacksonville Jaguars,28,22,Carson Wentz,Trevor Lawrence,C. Carson Wentz,T. Trevor Lawrence
+17102,2022-09-11,2022,Detroit Lions,Philadelphia Eagles,35,38,Jared Goff,Jalen Hurts,J. Jared Goff,J. Jalen Hurts
+17103,2022-09-11,2022,Chicago Bears,San Francisco 49ers,19,10,Justin Fields,Trey Lance,J. Justin Fields,T. Trey Lance
+17104,2022-09-11,2022,Houston Texans,Indianapolis Colts,20,20,Davis Mills,Matt Ryan,D. Davis Mills,M. Matt Ryan
+17105,2022-09-11,2022,Minnesota Vikings,Green Bay Packers,23,7,Kirk Cousins,Aaron Rodgers,K. Kirk Cousins,A. Aaron Rodgers
+17106,2022-09-11,2022,Arizona Cardinals,Kansas City Chiefs,21,44,Kyler Murray,Patrick Mahomes,K. Kyler Murray,P. Patrick Mahomes
+17107,2022-09-11,2022,Tennessee Titans,New York Giants,20,21,Ryan Tannehill,Daniel Jones,R. Ryan Tannehill,D. Daniel Jones
+17108,2022-09-11,2022,Los Angeles Chargers,Las Vegas Raiders,24,19,Justin Herbert,Derek Carr,J. Justin Herbert,D. Derek Carr
+17109,2022-09-11,2022,Dallas Cowboys,Tampa Bay Buccaneers,3,19,Dak Prescott,Tom Brady,D. Dak Prescott,T. Tom Brady
+17110,2022-09-12,2022,Seattle Seahawks,Denver Broncos,17,16,Geno Smith,Russell Wilson,G. Geno Smith,R. Russell Wilson
+17111,2022-09-15,2022,Kansas City Chiefs,Los Angeles Chargers,27,24,Patrick Mahomes,Justin Herbert,P. Patrick Mahomes,J. Justin Herbert
+17112,2022-09-18,2022,Baltimore Ravens,Miami Dolphins,38,42,Lamar Jackson,Tua Tagovailoa,L. Lamar Jackson,T. Tua Tagovailoa
+17113,2022-09-18,2022,Pittsburgh Steelers,New England Patriots,14,17,Mitch Trubisky,Mac Jones,M. Mitch Trubisky,M. Mac Jones
+17114,2022-09-18,2022,Jacksonville Jaguars,Indianapolis Colts,24,0,Trevor Lawrence,Matt Ryan,T. Trevor Lawrence,M. Matt Ryan
+17115,2022-09-18,2022,New York Giants,Carolina Panthers,19,16,Daniel Jones,Baker Mayfield,D. Daniel Jones,B. Baker Mayfield
+17116,2022-09-18,2022,Cleveland Browns,New York Jets,30,31,Jacoby Brissett,Joe Flacco,J. Jacoby Brissett,J. Joe Flacco
+17117,2022-09-18,2022,New Orleans Saints,Tampa Bay Buccaneers,10,20,Jameis Winston,Tom Brady,J. Jameis Winston,T. Tom Brady
+17118,2022-09-18,2022,Detroit Lions,Washington Football Team,36,27,Jared Goff,Carson Wentz,J. Jared Goff,C. Carson Wentz
+17119,2022-09-18,2022,Los Angeles Rams,Atlanta Falcons,31,27,Matthew Stafford,Marcus Mariota,M. Matthew Stafford,M. Marcus Mariota
+17120,2022-09-18,2022,San Francisco 49ers,Seattle Seahawks,27,7,Trey Lance,Geno Smith,T. Trey Lance,G. Geno Smith
+17121,2022-09-18,2022,Dallas Cowboys,Cincinnati Bengals,20,17,Cooper Rush,Joe Burrow,C. Cooper Rush,J. Joe Burrow
+17122,2022-09-18,2022,Denver Broncos,Houston Texans,16,9,Russell Wilson,Davis Mills,R. Russell Wilson,D. Davis Mills
+17123,2022-09-18,2022,Las Vegas Raiders,Arizona Cardinals,23,29,Derek Carr,Kyler Murray,D. Derek Carr,K. Kyler Murray
+17124,2022-09-18,2022,Green Bay Packers,Chicago Bears,27,10,Aaron Rodgers,Justin Fields,A. Aaron Rodgers,J. Justin Fields
+17125,2022-09-19,2022,Buffalo Bills,Tennessee Titans,41,7,Josh Allen,Ryan Tannehill,J. Josh Allen,R. Ryan Tannehill
+17126,2022-09-19,2022,Philadelphia Eagles,Minnesota Vikings,24,7,Jalen Hurts,Kirk Cousins,J. Jalen Hurts,K. Kirk Cousins
+17127,2022-09-22,2022,Cleveland Browns,Pittsburgh Steelers,29,17,Jacoby Brissett,Mitch Trubisky,J. Jacoby Brissett,M. Mitch Trubisky
+17128,2022-09-25,2022,New England Patriots,Baltimore Ravens,26,37,Mac Jones,Lamar Jackson,M. Mac Jones,L. Lamar Jackson
+17129,2022-09-25,2022,Indianapolis Colts,Kansas City Chiefs,20,17,Matt Ryan,Patrick Mahomes,M. Matt Ryan,P. Patrick Mahomes
+17130,2022-09-25,2022,Chicago Bears,Houston Texans,23,20,Justin Fields,Davis Mills,J. Justin Fields,D. Davis Mills
+17131,2022-09-25,2022,Tennessee Titans,Las Vegas Raiders,24,22,Ryan Tannehill,Derek Carr,R. Ryan Tannehill,D. Derek Carr
+17132,2022-09-25,2022,Carolina Panthers,New Orleans Saints,22,14,Baker Mayfield,Jameis Winston,B. Baker Mayfield,J. Jameis Winston
+17133,2022-09-25,2022,Washington Football Team,Philadelphia Eagles,8,24,Carson Wentz,Jalen Hurts,C. Carson Wentz,J. Jalen Hurts
+17134,2022-09-25,2022,New York Jets,Cincinnati Bengals,12,27,Joe Flacco,Joe Burrow,J. Joe Flacco,J. Joe Burrow
+17135,2022-09-25,2022,Miami Dolphins,Buffalo Bills,21,19,Tua Tagovailoa,Josh Allen,T. Tua Tagovailoa,J. Josh Allen
+17136,2022-09-25,2022,Minnesota Vikings,Detroit Lions,28,24,Kirk Cousins,Jared Goff,K. Kirk Cousins,J. Jared Goff
+17137,2022-09-25,2022,Los Angeles Chargers,Jacksonville Jaguars,10,38,Justin Herbert,Trevor Lawrence,J. Justin Herbert,T. Trevor Lawrence
+17138,2022-09-25,2022,Arizona Cardinals,Los Angeles Rams,12,20,Kyler Murray,Matthew Stafford,K. Kyler Murray,M. Matthew Stafford
+17139,2022-09-25,2022,Tampa Bay Buccaneers,Green Bay Packers,12,14,Tom Brady,Aaron Rodgers,T. Tom Brady,A. Aaron Rodgers
+17140,2022-09-25,2022,Seattle Seahawks,Atlanta Falcons,23,27,Geno Smith,Marcus Mariota,G. Geno Smith,M. Marcus Mariota
+17141,2022-09-25,2022,Denver Broncos,San Francisco 49ers,11,10,Russell Wilson,Jimmy Garoppolo,R. Russell Wilson,J. Jimmy Garoppolo
+17142,2022-09-26,2022,New York Giants,Dallas Cowboys,16,23,Daniel Jones,Cooper Rush,D. Daniel Jones,C. Cooper Rush
+17143,2022-09-29,2022,Cincinnati Bengals,Miami Dolphins,27,15,Joe Burrow,Tua Tagovailoa,J. Joe Burrow,T. Tua Tagovailoa
+17144,2022-10-02,2022,New Orleans Saints,Minnesota Vikings,25,28,Andy Dalton,Kirk Cousins,A. Andy Dalton,K. Kirk Cousins
+17145,2022-10-02,2022,Indianapolis Colts,Tennessee Titans,17,24,Matt Ryan,Ryan Tannehill,M. Matt Ryan,R. Ryan Tannehill
+17146,2022-10-02,2022,Pittsburgh Steelers,New York Jets,20,24,Mitch Trubisky,Zach Wilson,M. Mitch Trubisky,Z. Zach Wilson
+17147,2022-10-02,2022,Detroit Lions,Seattle Seahawks,45,48,Jared Goff,Geno Smith,J. Jared Goff,G. Geno Smith
+17148,2022-10-02,2022,New York Giants,Chicago Bears,20,12,Daniel Jones,Justin Fields,D. Daniel Jones,J. Justin Fields
+17149,2022-10-02,2022,Dallas Cowboys,Washington Football Team,25,10,Cooper Rush,Carson Wentz,C. Cooper Rush,C. Carson Wentz
+17150,2022-10-02,2022,Baltimore Ravens,Buffalo Bills,20,23,Lamar Jackson,Josh Allen,L. Lamar Jackson,J. Josh Allen
+17151,2022-10-02,2022,Atlanta Falcons,Cleveland Browns,23,20,Marcus Mariota,Jacoby Brissett,M. Marcus Mariota,J. Jacoby Brissett
+17152,2022-10-02,2022,Philadelphia Eagles,Jacksonville Jaguars,29,21,Jalen Hurts,Trevor Lawrence,J. Jalen Hurts,T. Trevor Lawrence
+17153,2022-10-02,2022,Houston Texans,Los Angeles Chargers,24,34,Davis Mills,Justin Herbert,D. Davis Mills,J. Justin Herbert
+17154,2022-10-02,2022,Carolina Panthers,Arizona Cardinals,16,26,Baker Mayfield,Kyler Murray,B. Baker Mayfield,K. Kyler Murray
+17155,2022-10-02,2022,Green Bay Packers,New England Patriots,27,24,Aaron Rodgers,Brian Hoyer,A. Aaron Rodgers,B. Brian Hoyer
+17156,2022-10-02,2022,Las Vegas Raiders,Denver Broncos,32,23,Derek Carr,Russell Wilson,D. Derek Carr,R. Russell Wilson
+17157,2022-10-02,2022,Tampa Bay Buccaneers,Kansas City Chiefs,31,41,Tom Brady,Patrick Mahomes,T. Tom Brady,P. Patrick Mahomes
+17158,2022-10-03,2022,San Francisco 49ers,Los Angeles Rams,24,9,Jimmy Garoppolo,Matthew Stafford,J. Jimmy Garoppolo,M. Matthew Stafford
+17159,2022-10-06,2022,Denver Broncos,Indianapolis Colts,9,12,Russell Wilson,Matt Ryan,R. Russell Wilson,M. Matt Ryan
+17160,2022-10-09,2022,Green Bay Packers,New York Giants,22,27,Aaron Rodgers,Daniel Jones,A. Aaron Rodgers,D. Daniel Jones
+17161,2022-10-09,2022,Minnesota Vikings,Chicago Bears,29,22,Kirk Cousins,Justin Fields,K. Kirk Cousins,J. Justin Fields
+17162,2022-10-09,2022,Jacksonville Jaguars,Houston Texans,6,13,Trevor Lawrence,Davis Mills,T. Trevor Lawrence,D. Davis Mills
+17163,2022-10-09,2022,Tampa Bay Buccaneers,Atlanta Falcons,21,15,Tom Brady,Marcus Mariota,T. Tom Brady,M. Marcus Mariota
+17164,2022-10-09,2022,New Orleans Saints,Seattle Seahawks,39,32,Andy Dalton,Geno Smith,A. Andy Dalton,G. Geno Smith
+17165,2022-10-09,2022,Cleveland Browns,Los Angeles Chargers,28,30,Jacoby Brissett,Justin Herbert,J. Jacoby Brissett,J. Justin Herbert
+17166,2022-10-09,2022,Washington Football Team,Tennessee Titans,17,21,Carson Wentz,Ryan Tannehill,C. Carson Wentz,R. Ryan Tannehill
+17167,2022-10-09,2022,Buffalo Bills,Pittsburgh Steelers,38,3,Josh Allen,Kenny Pickett,J. Josh Allen,K. Kenny Pickett
+17168,2022-10-09,2022,New York Jets,Miami Dolphins,40,17,Zach Wilson,Teddy Bridgewater,Z. Zach Wilson,T. Teddy Bridgewater
+17169,2022-10-09,2022,New England Patriots,Detroit Lions,29,0,Bailey Zappe,Jared Goff,B. Bailey Zappe,J. Jared Goff
+17170,2022-10-09,2022,Carolina Panthers,San Francisco 49ers,15,37,Baker Mayfield,Jimmy Garoppolo,B. Baker Mayfield,J. Jimmy Garoppolo
+17171,2022-10-09,2022,Arizona Cardinals,Philadelphia Eagles,17,20,Kyler Murray,Jalen Hurts,K. Kyler Murray,J. Jalen Hurts
+17172,2022-10-09,2022,Los Angeles Rams,Dallas Cowboys,10,22,Matthew Stafford,Cooper Rush,M. Matthew Stafford,C. Cooper Rush
+17173,2022-10-09,2022,Baltimore Ravens,Cincinnati Bengals,19,17,Lamar Jackson,Joe Burrow,L. Lamar Jackson,J. Joe Burrow
+17174,2022-10-10,2022,Kansas City Chiefs,Las Vegas Raiders,30,29,Patrick Mahomes,Derek Carr,P. Patrick Mahomes,D. Derek Carr
+17175,2022-10-13,2022,Chicago Bears,Washington Football Team,7,12,Justin Fields,Carson Wentz,J. Justin Fields,C. Carson Wentz
+17176,2022-10-16,2022,New York Giants,Baltimore Ravens,24,20,Daniel Jones,Lamar Jackson,D. Daniel Jones,L. Lamar Jackson
+17177,2022-10-16,2022,Indianapolis Colts,Jacksonville Jaguars,34,27,Matt Ryan,Trevor Lawrence,M. Matt Ryan,T. Trevor Lawrence
+17178,2022-10-16,2022,Miami Dolphins,Minnesota Vikings,16,24,Skylar Thompson,Kirk Cousins,S. Skylar Thompson,K. Kirk Cousins
+17179,2022-10-16,2022,New Orleans Saints,Cincinnati Bengals,26,30,Andy Dalton,Joe Burrow,A. Andy Dalton,J. Joe Burrow
+17180,2022-10-16,2022,Pittsburgh Steelers,Tampa Bay Buccaneers,20,18,Kenny Pickett,Tom Brady,K. Kenny Pickett,T. Tom Brady
+17181,2022-10-16,2022,Cleveland Browns,New England Patriots,15,38,Jacoby Brissett,Bailey Zappe,J. Jacoby Brissett,B. Bailey Zappe
+17182,2022-10-16,2022,Green Bay Packers,New York Jets,10,27,Aaron Rodgers,Zach Wilson,A. Aaron Rodgers,Z. Zach Wilson
+17183,2022-10-16,2022,Atlanta Falcons,San Francisco 49ers,28,14,Marcus Mariota,Jimmy Garoppolo,M. Marcus Mariota,J. Jimmy Garoppolo
+17184,2022-10-16,2022,Seattle Seahawks,Arizona Cardinals,19,9,Geno Smith,Kyler Murray,G. Geno Smith,K. Kyler Murray
+17185,2022-10-16,2022,Los Angeles Rams,Carolina Panthers,24,10,Matthew Stafford,P.J. Walker,M. Matthew Stafford,P.  Walker
+17186,2022-10-16,2022,Kansas City Chiefs,Buffalo Bills,20,24,Patrick Mahomes,Josh Allen,P. Patrick Mahomes,J. Josh Allen
+17187,2022-10-16,2022,Philadelphia Eagles,Dallas Cowboys,26,17,Jalen Hurts,Cooper Rush,J. Jalen Hurts,C. Cooper Rush
+17188,2022-10-17,2022,Los Angeles Chargers,Denver Broncos,19,16,Justin Herbert,Russell Wilson,J. Justin Herbert,R. Russell Wilson
+17189,2022-10-20,2022,Arizona Cardinals,New Orleans Saints,42,34,Kyler Murray,Andy Dalton,K. Kyler Murray,A. Andy Dalton
+17190,2022-10-23,2022,Tennessee Titans,Indianapolis Colts,19,10,Ryan Tannehill,Matt Ryan,R. Ryan Tannehill,M. Matt Ryan
+17191,2022-10-23,2022,Carolina Panthers,Tampa Bay Buccaneers,21,3,P.J. Walker,Tom Brady,P.  Walker,T. Tom Brady
+17192,2022-10-23,2022,Dallas Cowboys,Detroit Lions,24,6,Dak Prescott,Jared Goff,D. Dak Prescott,J. Jared Goff
+17193,2022-10-23,2022,Baltimore Ravens,Cleveland Browns,23,20,Lamar Jackson,Jacoby Brissett,L. Lamar Jackson,J. Jacoby Brissett
+17194,2022-10-23,2022,Washington Football Team,Green Bay Packers,23,21,Taylor Heinicke,Aaron Rodgers,T. Taylor Heinicke,A. Aaron Rodgers
+17195,2022-10-23,2022,Jacksonville Jaguars,New York Giants,17,23,Trevor Lawrence,Daniel Jones,T. Trevor Lawrence,D. Daniel Jones
+17196,2022-10-23,2022,Cincinnati Bengals,Atlanta Falcons,35,17,Joe Burrow,Marcus Mariota,J. Joe Burrow,M. Marcus Mariota
+17197,2022-10-23,2022,Las Vegas Raiders,Houston Texans,38,20,Derek Carr,Davis Mills,D. Derek Carr,D. Davis Mills
+17198,2022-10-23,2022,Denver Broncos,New York Jets,9,16,Brett Rypien,Zach Wilson,B. Brett Rypien,Z. Zach Wilson
+17199,2022-10-23,2022,Los Angeles Chargers,Seattle Seahawks,23,37,Justin Herbert,Geno Smith,J. Justin Herbert,G. Geno Smith
+17200,2022-10-23,2022,San Francisco 49ers,Kansas City Chiefs,23,44,Jimmy Garoppolo,Patrick Mahomes,J. Jimmy Garoppolo,P. Patrick Mahomes
+17201,2022-10-23,2022,Miami Dolphins,Pittsburgh Steelers,16,10,Tua Tagovailoa,Kenny Pickett,T. Tua Tagovailoa,K. Kenny Pickett
+17202,2022-10-24,2022,New England Patriots,Chicago Bears,14,33,Mac Jones,Justin Fields,M. Mac Jones,J. Justin Fields
+17203,2022-10-27,2022,Tampa Bay Buccaneers,Baltimore Ravens,22,27,Tom Brady,Lamar Jackson,T. Tom Brady,L. Lamar Jackson
+17204,2022-10-30,2022,Jacksonville Jaguars,Denver Broncos,17,21,Trevor Lawrence,Russell Wilson,T. Trevor Lawrence,R. Russell Wilson
+17205,2022-10-30,2022,Dallas Cowboys,Chicago Bears,49,29,Dak Prescott,Justin Fields,D. Dak Prescott,J. Justin Fields
+17206,2022-10-30,2022,New York Jets,New England Patriots,17,22,Zach Wilson,Mac Jones,Z. Zach Wilson,M. Mac Jones
+17207,2022-10-30,2022,Philadelphia Eagles,Pittsburgh Steelers,35,13,Jalen Hurts,Kenny Pickett,J. Jalen Hurts,K. Kenny Pickett
+17208,2022-10-30,2022,Minnesota Vikings,Arizona Cardinals,34,26,Kirk Cousins,Kyler Murray,K. Kirk Cousins,K. Kyler Murray
+17209,2022-10-30,2022,Atlanta Falcons,Carolina Panthers,37,34,Marcus Mariota,P.J. Walker,M. Marcus Mariota,P.  Walker
+17210,2022-10-30,2022,New Orleans Saints,Las Vegas Raiders,24,0,Andy Dalton,Derek Carr,A. Andy Dalton,D. Derek Carr
+17211,2022-10-30,2022,Detroit Lions,Miami Dolphins,27,31,Jared Goff,Tua Tagovailoa,J. Jared Goff,T. Tua Tagovailoa
+17212,2022-10-30,2022,Houston Texans,Tennessee Titans,10,17,Davis Mills,Malik Willis,D. Davis Mills,M. Malik Willis
+17213,2022-10-30,2022,Indianapolis Colts,Washington Football Team,16,17,Sam Ehlinger,Taylor Heinicke,S. Sam Ehlinger,T. Taylor Heinicke
+17214,2022-10-30,2022,Los Angeles Rams,San Francisco 49ers,14,31,Matthew Stafford,Jimmy Garoppolo,M. Matthew Stafford,J. Jimmy Garoppolo
+17215,2022-10-30,2022,Seattle Seahawks,New York Giants,27,13,Geno Smith,Daniel Jones,G. Geno Smith,D. Daniel Jones
+17216,2022-10-30,2022,Buffalo Bills,Green Bay Packers,27,17,Josh Allen,Aaron Rodgers,J. Josh Allen,A. Aaron Rodgers
+17217,2022-10-31,2022,Cleveland Browns,Cincinnati Bengals,32,13,Jacoby Brissett,Joe Burrow,J. Jacoby Brissett,J. Joe Burrow
+17218,2022-11-03,2022,Houston Texans,Philadelphia Eagles,17,29,Davis Mills,Jalen Hurts,D. Davis Mills,J. Jalen Hurts
+17219,2022-11-06,2022,Chicago Bears,Miami Dolphins,32,35,Justin Fields,Tua Tagovailoa,J. Justin Fields,T. Tua Tagovailoa
+17220,2022-11-06,2022,Washington Football Team,Minnesota Vikings,17,20,Taylor Heinicke,Kirk Cousins,T. Taylor Heinicke,K. Kirk Cousins
+17221,2022-11-06,2022,New York Jets,Buffalo Bills,20,17,Zach Wilson,Josh Allen,Z. Zach Wilson,J. Josh Allen
+17222,2022-11-06,2022,New England Patriots,Indianapolis Colts,26,3,Mac Jones,Sam Ehlinger,M. Mac Jones,S. Sam Ehlinger
+17223,2022-11-06,2022,Detroit Lions,Green Bay Packers,15,9,Jared Goff,Aaron Rodgers,J. Jared Goff,A. Aaron Rodgers
+17224,2022-11-06,2022,Atlanta Falcons,Los Angeles Chargers,17,20,Marcus Mariota,Justin Herbert,M. Marcus Mariota,J. Justin Herbert
+17225,2022-11-06,2022,Jacksonville Jaguars,Las Vegas Raiders,27,20,Trevor Lawrence,Derek Carr,T. Trevor Lawrence,D. Derek Carr
+17226,2022-11-06,2022,Cincinnati Bengals,Carolina Panthers,42,21,Joe Burrow,P.J. Walker,J. Joe Burrow,P.  Walker
+17227,2022-11-06,2022,Arizona Cardinals,Seattle Seahawks,21,31,Kyler Murray,Geno Smith,K. Kyler Murray,G. Geno Smith
+17228,2022-11-06,2022,Tampa Bay Buccaneers,Los Angeles Rams,16,13,Tom Brady,Matthew Stafford,T. Tom Brady,M. Matthew Stafford
+17229,2022-11-06,2022,Kansas City Chiefs,Tennessee Titans,20,17,Patrick Mahomes,Malik Willis,P. Patrick Mahomes,M. Malik Willis
+17230,2022-11-07,2022,New Orleans Saints,Baltimore Ravens,13,27,Andy Dalton,Lamar Jackson,A. Andy Dalton,L. Lamar Jackson
+17231,2022-11-10,2022,Carolina Panthers,Atlanta Falcons,25,15,P.J. Walker,Marcus Mariota,P.  Walker,M. Marcus Mariota
+17232,2022-11-13,2022,Tampa Bay Buccaneers,Seattle Seahawks,21,16,Tom Brady,Geno Smith,T. Tom Brady,G. Geno Smith
+17233,2022-11-13,2022,Buffalo Bills,Minnesota Vikings,30,33,Josh Allen,Kirk Cousins,J. Josh Allen,K. Kirk Cousins
+17234,2022-11-13,2022,Tennessee Titans,Denver Broncos,17,10,Ryan Tannehill,Russell Wilson,R. Ryan Tannehill,R. Russell Wilson
+17235,2022-11-13,2022,New York Giants,Houston Texans,24,16,Daniel Jones,Davis Mills,D. Daniel Jones,D. Davis Mills
+17236,2022-11-13,2022,Miami Dolphins,Cleveland Browns,39,17,Tua Tagovailoa,Jacoby Brissett,T. Tua Tagovailoa,J. Jacoby Brissett
+17237,2022-11-13,2022,Pittsburgh Steelers,New Orleans Saints,20,10,Kenny Pickett,Andy Dalton,K. Kenny Pickett,A. Andy Dalton
+17238,2022-11-13,2022,Kansas City Chiefs,Jacksonville Jaguars,27,17,Patrick Mahomes,Trevor Lawrence,P. Patrick Mahomes,T. Trevor Lawrence
+17239,2022-11-13,2022,Chicago Bears,Detroit Lions,30,31,Justin Fields,Jared Goff,J. Justin Fields,J. Jared Goff
+17240,2022-11-13,2022,Las Vegas Raiders,Indianapolis Colts,20,25,Derek Carr,Matt Ryan,D. Derek Carr,M. Matt Ryan
+17241,2022-11-13,2022,Green Bay Packers,Dallas Cowboys,31,28,Aaron Rodgers,Dak Prescott,A. Aaron Rodgers,D. Dak Prescott
+17242,2022-11-13,2022,Los Angeles Rams,Arizona Cardinals,17,27,John Wolford,Colt McCoy,J. John Wolford,C. Colt McCoy
+17243,2022-11-13,2022,San Francisco 49ers,Los Angeles Chargers,22,16,Jimmy Garoppolo,Justin Herbert,J. Jimmy Garoppolo,J. Justin Herbert
+17244,2022-11-14,2022,Philadelphia Eagles,Washington Football Team,21,32,Jalen Hurts,Taylor Heinicke,J. Jalen Hurts,T. Taylor Heinicke
+17245,2022-11-17,2022,Green Bay Packers,Tennessee Titans,17,27,Aaron Rodgers,Ryan Tannehill,A. Aaron Rodgers,R. Ryan Tannehill
+17246,2022-11-20,2022,New York Giants,Detroit Lions,18,31,Daniel Jones,Jared Goff,D. Daniel Jones,J. Jared Goff
+17247,2022-11-20,2022,Buffalo Bills,Cleveland Browns,31,23,Josh Allen,Jacoby Brissett,J. Josh Allen,J. Jacoby Brissett
+17248,2022-11-20,2022,Baltimore Ravens,Carolina Panthers,13,3,Lamar Jackson,Baker Mayfield,L. Lamar Jackson,B. Baker Mayfield
+17249,2022-11-20,2022,New England Patriots,New York Jets,10,3,Mac Jones,Zach Wilson,M. Mac Jones,Z. Zach Wilson
+17250,2022-11-20,2022,Atlanta Falcons,Chicago Bears,27,24,Marcus Mariota,Justin Fields,M. Marcus Mariota,J. Justin Fields
+17251,2022-11-20,2022,Indianapolis Colts,Philadelphia Eagles,16,17,Matt Ryan,Jalen Hurts,M. Matt Ryan,J. Jalen Hurts
+17252,2022-11-20,2022,Houston Texans,Washington Football Team,10,23,Davis Mills,Taylor Heinicke,D. Davis Mills,T. Taylor Heinicke
+17253,2022-11-20,2022,New Orleans Saints,Los Angeles Rams,27,20,Andy Dalton,Matthew Stafford,A. Andy Dalton,M. Matthew Stafford
+17254,2022-11-20,2022,Denver Broncos,Las Vegas Raiders,16,22,Russell Wilson,Derek Carr,R. Russell Wilson,D. Derek Carr
+17255,2022-11-20,2022,Pittsburgh Steelers,Cincinnati Bengals,30,37,Kenny Pickett,Joe Burrow,K. Kenny Pickett,J. Joe Burrow
+17256,2022-11-20,2022,Minnesota Vikings,Dallas Cowboys,3,40,Kirk Cousins,Dak Prescott,K. Kirk Cousins,D. Dak Prescott
+17257,2022-11-20,2022,Los Angeles Chargers,Kansas City Chiefs,27,30,Justin Herbert,Patrick Mahomes,J. Justin Herbert,P. Patrick Mahomes
+17258,2022-11-21,2022,Arizona Cardinals,San Francisco 49ers,10,38,Colt McCoy,Jimmy Garoppolo,C. Colt McCoy,J. Jimmy Garoppolo
+17259,2022-11-24,2022,Detroit Lions,Buffalo Bills,25,28,Jared Goff,Josh Allen,J. Jared Goff,J. Josh Allen
+17260,2022-11-24,2022,Dallas Cowboys,New York Giants,28,20,Dak Prescott,Daniel Jones,D. Dak Prescott,D. Daniel Jones
+17261,2022-11-24,2022,Minnesota Vikings,New England Patriots,33,26,Kirk Cousins,Mac Jones,K. Kirk Cousins,M. Mac Jones
+17262,2022-11-27,2022,Tennessee Titans,Cincinnati Bengals,16,20,Ryan Tannehill,Joe Burrow,R. Ryan Tannehill,J. Joe Burrow
+17263,2022-11-27,2022,New York Jets,Chicago Bears,31,10,Mike White,Trevor Siemian,M. Mike White,T. Trevor Siemian
+17264,2022-11-27,2022,Cleveland Browns,Tampa Bay Buccaneers,23,17,Jacoby Brissett,Tom Brady,J. Jacoby Brissett,T. Tom Brady
+17265,2022-11-27,2022,Carolina Panthers,Denver Broncos,23,10,Sam Darnold,Russell Wilson,S. Sam Darnold,R. Russell Wilson
+17266,2022-11-27,2022,Miami Dolphins,Houston Texans,30,15,Tua Tagovailoa,Kyle Allen,T. Tua Tagovailoa,K. Kyle Allen
+17267,2022-11-27,2022,Washington Football Team,Atlanta Falcons,19,13,Taylor Heinicke,Marcus Mariota,T. Taylor Heinicke,M. Marcus Mariota
+17268,2022-11-27,2022,Jacksonville Jaguars,Baltimore Ravens,28,27,Trevor Lawrence,Lamar Jackson,T. Trevor Lawrence,L. Lamar Jackson
+17269,2022-11-27,2022,Arizona Cardinals,Los Angeles Chargers,24,25,Kyler Murray,Justin Herbert,K. Kyler Murray,J. Justin Herbert
+17270,2022-11-27,2022,Seattle Seahawks,Las Vegas Raiders,34,40,Geno Smith,Derek Carr,G. Geno Smith,D. Derek Carr
+17271,2022-11-27,2022,San Francisco 49ers,New Orleans Saints,13,0,Jimmy Garoppolo,Andy Dalton,J. Jimmy Garoppolo,A. Andy Dalton
+17272,2022-11-27,2022,Kansas City Chiefs,Los Angeles Rams,26,10,Patrick Mahomes,Bryce Perkins,P. Patrick Mahomes,B. Bryce Perkins
+17273,2022-11-27,2022,Philadelphia Eagles,Green Bay Packers,40,33,Jalen Hurts,Aaron Rodgers,J. Jalen Hurts,A. Aaron Rodgers
+17274,2022-11-28,2022,Indianapolis Colts,Pittsburgh Steelers,17,24,Matt Ryan,Kenny Pickett,M. Matt Ryan,K. Kenny Pickett
+17275,2022-12-01,2022,New England Patriots,Buffalo Bills,10,24,Mac Jones,Josh Allen,M. Mac Jones,J. Josh Allen
+17276,2022-12-04,2022,New York Giants,Washington Football Team,20,20,Daniel Jones,Taylor Heinicke,D. Daniel Jones,T. Taylor Heinicke
+17277,2022-12-04,2022,Minnesota Vikings,New York Jets,27,22,Kirk Cousins,Mike White,K. Kirk Cousins,M. Mike White
+17278,2022-12-04,2022,Atlanta Falcons,Pittsburgh Steelers,16,19,Marcus Mariota,Kenny Pickett,M. Marcus Mariota,K. Kenny Pickett
+17279,2022-12-04,2022,Philadelphia Eagles,Tennessee Titans,35,10,Jalen Hurts,Ryan Tannehill,J. Jalen Hurts,R. Ryan Tannehill
+17280,2022-12-04,2022,Baltimore Ravens,Denver Broncos,10,9,Lamar Jackson,Russell Wilson,L. Lamar Jackson,R. Russell Wilson
+17281,2022-12-04,2022,Chicago Bears,Green Bay Packers,19,28,Justin Fields,Aaron Rodgers,J. Justin Fields,A. Aaron Rodgers
+17282,2022-12-04,2022,Houston Texans,Cleveland Browns,14,27,Kyle Allen,Deshaun Watson,K. Kyle Allen,D. Deshaun Watson
+17283,2022-12-04,2022,Detroit Lions,Jacksonville Jaguars,40,14,Jared Goff,Trevor Lawrence,J. Jared Goff,T. Trevor Lawrence
+17284,2022-12-04,2022,San Francisco 49ers,Miami Dolphins,33,17,Jimmy Garoppolo,Tua Tagovailoa,J. Jimmy Garoppolo,T. Tua Tagovailoa
+17285,2022-12-04,2022,Los Angeles Rams,Seattle Seahawks,23,27,John Wolford,Geno Smith,J. John Wolford,G. Geno Smith
+17286,2022-12-04,2022,Cincinnati Bengals,Kansas City Chiefs,27,24,Joe Burrow,Patrick Mahomes,J. Joe Burrow,P. Patrick Mahomes
+17287,2022-12-04,2022,Las Vegas Raiders,Los Angeles Chargers,27,20,Derek Carr,Justin Herbert,D. Derek Carr,J. Justin Herbert
+17288,2022-12-04,2022,Dallas Cowboys,Indianapolis Colts,54,19,Dak Prescott,Matt Ryan,D. Dak Prescott,M. Matt Ryan
+17289,2022-12-05,2022,Tampa Bay Buccaneers,New Orleans Saints,17,16,Tom Brady,Andy Dalton,T. Tom Brady,A. Andy Dalton
+17290,2022-12-08,2022,Los Angeles Rams,Las Vegas Raiders,17,16,Baker Mayfield,Derek Carr,B. Baker Mayfield,D. Derek Carr
+17291,2022-12-11,2022,Tennessee Titans,Jacksonville Jaguars,22,36,Ryan Tannehill,Trevor Lawrence,R. Ryan Tannehill,T. Trevor Lawrence
+17292,2022-12-11,2022,New York Giants,Philadelphia Eagles,22,48,Daniel Jones,Jalen Hurts,D. Daniel Jones,J. Jalen Hurts
+17293,2022-12-11,2022,Detroit Lions,Minnesota Vikings,34,23,Jared Goff,Kirk Cousins,J. Jared Goff,K. Kirk Cousins
+17294,2022-12-11,2022,Cincinnati Bengals,Cleveland Browns,23,10,Joe Burrow,Deshaun Watson,J. Joe Burrow,D. Deshaun Watson
+17295,2022-12-11,2022,Dallas Cowboys,Houston Texans,27,23,Dak Prescott,Davis Mills,D. Dak Prescott,D. Davis Mills
+17296,2022-12-11,2022,Buffalo Bills,New York Jets,20,12,Josh Allen,Mike White,J. Josh Allen,M. Mike White
+17297,2022-12-11,2022,Pittsburgh Steelers,Baltimore Ravens,14,16,Kenny Pickett,Tyler Huntley,K. Kenny Pickett,T. Tyler Huntley
+17298,2022-12-11,2022,Denver Broncos,Kansas City Chiefs,28,34,Russell Wilson,Patrick Mahomes,R. Russell Wilson,P. Patrick Mahomes
+17299,2022-12-11,2022,San Francisco 49ers,Tampa Bay Buccaneers,35,7,Brock Purdy,Tom Brady,B. Brock Purdy,T. Tom Brady
+17300,2022-12-11,2022,Seattle Seahawks,Carolina Panthers,24,30,Geno Smith,Sam Darnold,G. Geno Smith,S. Sam Darnold
+17301,2022-12-11,2022,Los Angeles Chargers,Miami Dolphins,23,17,Justin Herbert,Tua Tagovailoa,J. Justin Herbert,T. Tua Tagovailoa
+17302,2022-12-12,2022,Arizona Cardinals,New England Patriots,13,27,Kyler Murray,Mac Jones,K. Kyler Murray,M. Mac Jones
+17303,2022-12-15,2022,Seattle Seahawks,San Francisco 49ers,13,21,Geno Smith,Brock Purdy,G. Geno Smith,B. Brock Purdy
+17304,2022-12-17,2022,Minnesota Vikings,Indianapolis Colts,39,36,Kirk Cousins,Matt Ryan,K. Kirk Cousins,M. Matt Ryan
+17305,2022-12-17,2022,Cleveland Browns,Baltimore Ravens,13,3,Deshaun Watson,Tyler Huntley,D. Deshaun Watson,T. Tyler Huntley
+17306,2022-12-17,2022,Buffalo Bills,Miami Dolphins,32,29,Josh Allen,Tua Tagovailoa,J. Josh Allen,T. Tua Tagovailoa
+17307,2022-12-18,2022,Houston Texans,Kansas City Chiefs,24,30,Davis Mills,Patrick Mahomes,D. Davis Mills,P. Patrick Mahomes
+17308,2022-12-18,2022,Jacksonville Jaguars,Dallas Cowboys,40,34,Trevor Lawrence,Dak Prescott,T. Trevor Lawrence,D. Dak Prescott
+17309,2022-12-18,2022,Carolina Panthers,Pittsburgh Steelers,16,24,Sam Darnold,Mitch Trubisky,S. Sam Darnold,M. Mitch Trubisky
+17310,2022-12-18,2022,New Orleans Saints,Atlanta Falcons,21,18,Andy Dalton,Desmond Ridder,A. Andy Dalton,D. Desmond Ridder
+17311,2022-12-18,2022,New York Jets,Detroit Lions,17,20,Zach Wilson,Jared Goff,Z. Zach Wilson,J. Jared Goff
+17312,2022-12-18,2022,Chicago Bears,Philadelphia Eagles,20,25,Justin Fields,Jalen Hurts,J. Justin Fields,J. Jalen Hurts
+17313,2022-12-18,2022,Denver Broncos,Arizona Cardinals,24,15,Brett Rypien,Colt McCoy,B. Brett Rypien,C. Colt McCoy
+17314,2022-12-18,2022,Las Vegas Raiders,New England Patriots,30,24,Derek Carr,Mac Jones,D. Derek Carr,M. Mac Jones
+17315,2022-12-18,2022,Los Angeles Chargers,Tennessee Titans,17,14,Justin Herbert,Ryan Tannehill,J. Justin Herbert,R. Ryan Tannehill
+17316,2022-12-18,2022,Tampa Bay Buccaneers,Cincinnati Bengals,23,34,Tom Brady,Joe Burrow,T. Tom Brady,J. Joe Burrow
+17317,2022-12-18,2022,Washington Football Team,New York Giants,12,20,Taylor Heinicke,Daniel Jones,T. Taylor Heinicke,D. Daniel Jones
+17318,2022-12-19,2022,Green Bay Packers,Los Angeles Rams,24,12,Aaron Rodgers,Baker Mayfield,A. Aaron Rodgers,B. Baker Mayfield
+17319,2022-12-22,2022,New York Jets,Jacksonville Jaguars,3,19,Zach Wilson,Trevor Lawrence,Z. Zach Wilson,T. Trevor Lawrence
+17320,2022-12-24,2022,New England Patriots,Cincinnati Bengals,18,22,Mac Jones,Joe Burrow,M. Mac Jones,J. Joe Burrow
+17321,2022-12-24,2022,Kansas City Chiefs,Seattle Seahawks,24,10,Patrick Mahomes,Geno Smith,P. Patrick Mahomes,G. Geno Smith
+17322,2022-12-24,2022,Carolina Panthers,Detroit Lions,37,23,Sam Darnold,Jared Goff,S. Sam Darnold,J. Jared Goff
+17323,2022-12-24,2022,Chicago Bears,Buffalo Bills,13,35,Justin Fields,Josh Allen,J. Justin Fields,J. Josh Allen
+17324,2022-12-24,2022,Baltimore Ravens,Atlanta Falcons,17,9,Tyler Huntley,Desmond Ridder,T. Tyler Huntley,D. Desmond Ridder
+17325,2022-12-24,2022,Cleveland Browns,New Orleans Saints,10,17,Deshaun Watson,Andy Dalton,D. Deshaun Watson,A. Andy Dalton
+17326,2022-12-24,2022,Minnesota Vikings,New York Giants,27,24,Kirk Cousins,Daniel Jones,K. Kirk Cousins,D. Daniel Jones
+17327,2022-12-24,2022,Tennessee Titans,Houston Texans,14,19,Malik Willis,Davis Mills,M. Malik Willis,D. Davis Mills
+17328,2022-12-24,2022,San Francisco 49ers,Washington Football Team,37,20,Brock Purdy,Taylor Heinicke,B. Brock Purdy,T. Taylor Heinicke
+17329,2022-12-24,2022,Dallas Cowboys,Philadelphia Eagles,40,34,Dak Prescott,Gardner Minshew,D. Dak Prescott,G. Gardner Minshew
+17330,2022-12-24,2022,Pittsburgh Steelers,Las Vegas Raiders,13,10,Kenny Pickett,Derek Carr,K. Kenny Pickett,D. Derek Carr
+17331,2022-12-25,2022,Miami Dolphins,Green Bay Packers,20,26,Tua Tagovailoa,Aaron Rodgers,T. Tua Tagovailoa,A. Aaron Rodgers
+17332,2022-12-25,2022,Los Angeles Rams,Denver Broncos,51,14,Baker Mayfield,Russell Wilson,B. Baker Mayfield,R. Russell Wilson
+17333,2022-12-25,2022,Arizona Cardinals,Tampa Bay Buccaneers,16,19,Trace McSorley,Tom Brady,T. Trace McSorley,T. Tom Brady
+17334,2022-12-26,2022,Indianapolis Colts,Los Angeles Chargers,3,20,Nick Foles,Justin Herbert,N. Nick Foles,J. Justin Herbert
+17335,2022-12-29,2022,Tennessee Titans,Dallas Cowboys,13,27,Joshua Dobbs,Dak Prescott,J. Joshua Dobbs,D. Dak Prescott
+17336,2023-01-01,2022,New England Patriots,Miami Dolphins,23,21,Mac Jones,Teddy Bridgewater,M. Mac Jones,T. Teddy Bridgewater
+17337,2023-01-01,2022,Kansas City Chiefs,Denver Broncos,27,24,Patrick Mahomes,Russell Wilson,P. Patrick Mahomes,R. Russell Wilson
+17338,2023-01-01,2022,Atlanta Falcons,Arizona Cardinals,20,19,Desmond Ridder,David Blough,D. Desmond Ridder,D. David Blough
+17339,2023-01-01,2022,Washington Football Team,Cleveland Browns,10,24,Carson Wentz,Deshaun Watson,C. Carson Wentz,D. Deshaun Watson
+17340,2023-01-01,2022,Philadelphia Eagles,New Orleans Saints,10,20,Gardner Minshew,Andy Dalton,G. Gardner Minshew,A. Andy Dalton
+17341,2023-01-01,2022,New York Giants,Indianapolis Colts,38,10,Daniel Jones,Nick Foles,D. Daniel Jones,N. Nick Foles
+17342,2023-01-01,2022,Houston Texans,Jacksonville Jaguars,3,31,Davis Mills,Trevor Lawrence,D. Davis Mills,T. Trevor Lawrence
+17343,2023-01-01,2022,Tampa Bay Buccaneers,Carolina Panthers,30,24,Tom Brady,Sam Darnold,T. Tom Brady,S. Sam Darnold
+17344,2023-01-01,2022,Detroit Lions,Chicago Bears,41,10,Jared Goff,Justin Fields,J. Jared Goff,J. Justin Fields
+17345,2023-01-01,2022,Seattle Seahawks,New York Jets,23,6,Geno Smith,Mike White,G. Geno Smith,M. Mike White
+17346,2023-01-01,2022,Las Vegas Raiders,San Francisco 49ers,34,37,Jarrett Stidham,Brock Purdy,J. Jarrett Stidham,B. Brock Purdy
+17347,2023-01-01,2022,Green Bay Packers,Minnesota Vikings,41,17,Aaron Rodgers,Kirk Cousins,A. Aaron Rodgers,K. Kirk Cousins
+17348,2023-01-01,2022,Los Angeles Chargers,Los Angeles Rams,31,10,Justin Herbert,Baker Mayfield,J. Justin Herbert,B. Baker Mayfield
+17349,2023-01-01,2022,Baltimore Ravens,Pittsburgh Steelers,13,16,Tyler Huntley,Kenny Pickett,T. Tyler Huntley,K. Kenny Pickett
+17350,2023-01-07,2022,Las Vegas Raiders,Kansas City Chiefs,13,31,Jarrett Stidham,Patrick Mahomes,J. Jarrett Stidham,P. Patrick Mahomes
+17351,2023-01-07,2022,Jacksonville Jaguars,Tennessee Titans,20,16,Trevor Lawrence,Joshua Dobbs,T. Trevor Lawrence,J. Joshua Dobbs
+17352,2023-01-08,2022,Miami Dolphins,New York Jets,11,6,Skylar Thompson,Joe Flacco,S. Skylar Thompson,J. Joe Flacco
+17353,2023-01-08,2022,Pittsburgh Steelers,Cleveland Browns,28,14,Kenny Pickett,Deshaun Watson,K. Kenny Pickett,D. Deshaun Watson
+17354,2023-01-08,2022,Buffalo Bills,New England Patriots,35,23,Josh Allen,Mac Jones,J. Josh Allen,M. Mac Jones
+17355,2023-01-08,2022,Chicago Bears,Minnesota Vikings,13,29,Nathan Peterman,Kirk Cousins,N. Nathan Peterman,K. Kirk Cousins
+17356,2023-01-08,2022,New Orleans Saints,Carolina Panthers,7,10,Andy Dalton,Sam Darnold,A. Andy Dalton,S. Sam Darnold
+17357,2023-01-08,2022,Indianapolis Colts,Houston Texans,31,32,Sam Ehlinger,Davis Mills,S. Sam Ehlinger,D. Davis Mills
+17358,2023-01-08,2022,Cincinnati Bengals,Baltimore Ravens,27,16,Joe Burrow,Anthony Brown,J. Joe Burrow,A. Anthony Brown
+17359,2023-01-08,2022,Atlanta Falcons,Tampa Bay Buccaneers,30,17,Desmond Ridder,Tom Brady,D. Desmond Ridder,T. Tom Brady
+17360,2023-01-08,2022,San Francisco 49ers,Arizona Cardinals,38,13,Brock Purdy,David Blough,B. Brock Purdy,D. David Blough
+17361,2023-01-08,2022,Denver Broncos,Los Angeles Chargers,31,28,Russell Wilson,Justin Herbert,R. Russell Wilson,J. Justin Herbert
+17362,2023-01-08,2022,Seattle Seahawks,Los Angeles Rams,19,16,Geno Smith,Baker Mayfield,G. Geno Smith,B. Baker Mayfield
+17363,2023-01-08,2022,Washington Football Team,Dallas Cowboys,26,6,Sam Howell,Dak Prescott,S. Sam Howell,D. Dak Prescott
+17364,2023-01-08,2022,Philadelphia Eagles,New York Giants,22,16,Jalen Hurts,Davis Webb,J. Jalen Hurts,D. Davis Webb
+17365,2023-01-08,2022,Green Bay Packers,Detroit Lions,16,20,Aaron Rodgers,Jared Goff,A. Aaron Rodgers,J. Jared Goff
+17366,2023-01-14,2022,San Francisco 49ers,Seattle Seahawks,41,23,Brock Purdy,Geno Smith,B. Brock Purdy,G. Geno Smith
+17367,2023-01-14,2022,Jacksonville Jaguars,Los Angeles Chargers,31,30,Trevor Lawrence,Justin Herbert,T. Trevor Lawrence,J. Justin Herbert
+17368,2023-01-15,2022,Buffalo Bills,Miami Dolphins,34,31,Josh Allen,Skylar Thompson,J. Josh Allen,S. Skylar Thompson
+17369,2023-01-15,2022,Minnesota Vikings,New York Giants,24,31,Kirk Cousins,Daniel Jones,K. Kirk Cousins,D. Daniel Jones
+17370,2023-01-15,2022,Cincinnati Bengals,Baltimore Ravens,24,17,Joe Burrow,Tyler Huntley,J. Joe Burrow,T. Tyler Huntley
+17371,2023-01-16,2022,Tampa Bay Buccaneers,Dallas Cowboys,14,31,Tom Brady,Dak Prescott,T. Tom Brady,D. Dak Prescott
+17372,2023-01-21,2022,Kansas City Chiefs,Jacksonville Jaguars,27,20,Patrick Mahomes,Trevor Lawrence,P. Patrick Mahomes,T. Trevor Lawrence
+17373,2023-01-21,2022,Philadelphia Eagles,New York Giants,38,7,Jalen Hurts,Daniel Jones,J. Jalen Hurts,D. Daniel Jones
+17374,2023-01-22,2022,Buffalo Bills,Cincinnati Bengals,10,27,Josh Allen,Joe Burrow,J. Josh Allen,J. Joe Burrow
+17375,2023-01-22,2022,San Francisco 49ers,Dallas Cowboys,19,12,Brock Purdy,Dak Prescott,B. Brock Purdy,D. Dak Prescott
+17376,2023-01-29,2022,Philadelphia Eagles,San Francisco 49ers,31,7,Jalen Hurts,Brock Purdy,J. Jalen Hurts,B. Brock Purdy
+17377,2023-01-29,2022,Kansas City Chiefs,Cincinnati Bengals,23,20,Patrick Mahomes,Joe Burrow,P. Patrick Mahomes,J. Joe Burrow
+17378,2023-02-12,2022,Philadelphia Eagles,Kansas City Chiefs,35,38,Jalen Hurts,Patrick Mahomes,J. Jalen Hurts,P. Patrick Mahomes

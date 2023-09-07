@@ -1,0 +1,285 @@
+,season,week,home_team,away_team,home_score,away_score,season_type,home_full,away_full
+0,2022,1,NYJ,BAL,9,24,REG,New York Jets,Baltimore Ravens
+179,2022,1,LA,BUF,10,31,REG,Los Angeles Rams,Buffalo Bills
+341,2022,1,CAR,CLE,24,26,REG,Carolina Panthers,Cleveland Browns
+527,2022,1,SEA,DEN,17,16,REG,Seattle Seahawks,Denver Broncos
+689,2022,1,MIN,GB,23,7,REG,Minnesota Vikings,Green Bay Packers
+854,2022,1,HOU,IND,20,20,REG,Houston Texans,Indianapolis Colts
+1074,2022,1,WAS,JAX,28,22,REG,Washington Football Team,Jacksonville Jaguars
+1264,2022,1,ARI,KC,21,44,REG,Arizona Cardinals,Kansas City Chiefs
+1439,2022,1,LAC,LV,24,19,REG,Los Angeles Chargers,Las Vegas Raiders
+1604,2022,1,MIA,NE,20,7,REG,Miami Dolphins,New England Patriots
+1758,2022,1,ATL,NO,26,27,REG,Atlanta Falcons,New Orleans Saints
+1949,2022,1,TEN,NYG,20,21,REG,Tennessee Titans,New York Giants
+2121,2022,1,DET,PHI,35,38,REG,Detroit Lions,Philadelphia Eagles
+2321,2022,1,CIN,PIT,20,23,REG,Cincinnati Bengals,Pittsburgh Steelers
+2538,2022,1,CHI,SF,19,10,REG,Chicago Bears,San Francisco 49ers
+2719,2022,1,DAL,TB,3,19,REG,Dallas Cowboys,Tampa Bay Buccaneers
+2893,2022,2,LV,ARI,23,29,REG,Las Vegas Raiders,Arizona Cardinals
+3094,2022,2,LA,ATL,31,27,REG,Los Angeles Rams,Atlanta Falcons
+3259,2022,2,NYG,CAR,19,16,REG,New York Giants,Carolina Panthers
+3435,2022,2,GB,CHI,27,10,REG,Green Bay Packers,Chicago Bears
+3584,2022,2,DAL,CIN,20,17,REG,Dallas Cowboys,Cincinnati Bengals
+3762,2022,2,DEN,HOU,16,9,REG,Denver Broncos,Houston Texans
+3944,2022,2,JAX,IND,24,0,REG,Jacksonville Jaguars,Indianapolis Colts
+4102,2022,2,KC,LAC,27,24,REG,Kansas City Chiefs,Los Angeles Chargers
+4278,2022,2,BAL,MIA,38,42,REG,Baltimore Ravens,Miami Dolphins
+4454,2022,2,PHI,MIN,24,7,REG,Philadelphia Eagles,Minnesota Vikings
+4625,2022,2,PIT,NE,14,17,REG,Pittsburgh Steelers,New England Patriots
+4795,2022,2,CLE,NYJ,30,31,REG,Cleveland Browns,New York Jets
+4981,2022,2,SF,SEA,27,7,REG,San Francisco 49ers,Seattle Seahawks
+5145,2022,2,NO,TB,10,20,REG,New Orleans Saints,Tampa Bay Buccaneers
+5323,2022,2,BUF,TEN,41,7,REG,Buffalo Bills,Tennessee Titans
+5491,2022,2,DET,WAS,36,27,REG,Detroit Lions,Washington Football Team
+5672,2022,3,SEA,ATL,23,27,REG,Seattle Seahawks,Atlanta Falcons
+5839,2022,3,NE,BAL,26,37,REG,New England Patriots,Baltimore Ravens
+6008,2022,3,MIA,BUF,21,19,REG,Miami Dolphins,Buffalo Bills
+6185,2022,3,NYJ,CIN,12,27,REG,New York Jets,Cincinnati Bengals
+6375,2022,3,NYG,DAL,16,23,REG,New York Giants,Dallas Cowboys
+6559,2022,3,MIN,DET,28,24,REG,Minnesota Vikings,Detroit Lions
+6755,2022,3,TB,GB,12,14,REG,Tampa Bay Buccaneers,Green Bay Packers
+6927,2022,3,CHI,HOU,23,20,REG,Chicago Bears,Houston Texans
+7108,2022,3,LAC,JAX,10,38,REG,Los Angeles Chargers,Jacksonville Jaguars
+7283,2022,3,IND,KC,20,17,REG,Indianapolis Colts,Kansas City Chiefs
+7455,2022,3,ARI,LA,12,20,REG,Arizona Cardinals,Los Angeles Rams
+7632,2022,3,TEN,LV,24,22,REG,Tennessee Titans,Las Vegas Raiders
+7805,2022,3,CAR,NO,22,14,REG,Carolina Panthers,New Orleans Saints
+7982,2022,3,WAS,PHI,8,24,REG,Washington Football Team,Philadelphia Eagles
+8172,2022,3,CLE,PIT,29,17,REG,Cleveland Browns,Pittsburgh Steelers
+8351,2022,3,DEN,SF,11,10,REG,Denver Broncos,San Francisco 49ers
+8525,2022,4,CAR,ARI,16,26,REG,Carolina Panthers,Arizona Cardinals
+8693,2022,4,BAL,BUF,20,23,REG,Baltimore Ravens,Buffalo Bills
+8867,2022,4,NYG,CHI,20,12,REG,New York Giants,Chicago Bears
+9043,2022,4,ATL,CLE,23,20,REG,Atlanta Falcons,Cleveland Browns
+9210,2022,4,LV,DEN,32,23,REG,Las Vegas Raiders,Denver Broncos
+9386,2022,4,PHI,JAX,29,21,REG,Philadelphia Eagles,Jacksonville Jaguars
+9555,2022,4,TB,KC,31,41,REG,Tampa Bay Buccaneers,Kansas City Chiefs
+9745,2022,4,HOU,LAC,24,34,REG,Houston Texans,Los Angeles Chargers
+9922,2022,4,SF,LA,24,9,REG,San Francisco 49ers,Los Angeles Rams
+10088,2022,4,CIN,MIA,27,15,REG,Cincinnati Bengals,Miami Dolphins
+10263,2022,4,NO,MIN,25,28,REG,New Orleans Saints,Minnesota Vikings
+10446,2022,4,GB,NE,27,24,REG,Green Bay Packers,New England Patriots
+10633,2022,4,PIT,NYJ,20,24,REG,Pittsburgh Steelers,New York Jets
+10812,2022,4,DET,SEA,45,48,REG,Detroit Lions,Seattle Seahawks
+11009,2022,4,IND,TEN,17,24,REG,Indianapolis Colts,Tennessee Titans
+11170,2022,4,DAL,WAS,25,10,REG,Dallas Cowboys,Washington Football Team
+11353,2022,5,TB,ATL,21,15,REG,Tampa Bay Buccaneers,Atlanta Falcons
+11537,2022,5,MIN,CHI,29,22,REG,Minnesota Vikings,Chicago Bears
+11706,2022,5,BAL,CIN,19,17,REG,Baltimore Ravens,Cincinnati Bengals
+11874,2022,5,LA,DAL,10,22,REG,Los Angeles Rams,Dallas Cowboys
+12041,2022,5,NE,DET,29,0,REG,New England Patriots,Detroit Lions
+12205,2022,5,JAX,HOU,6,13,REG,Jacksonville Jaguars,Houston Texans
+12376,2022,5,DEN,IND,9,12,REG,Denver Broncos,Indianapolis Colts
+12582,2022,5,CLE,LAC,28,30,REG,Cleveland Browns,Los Angeles Chargers
+12763,2022,5,KC,LV,30,29,REG,Kansas City Chiefs,Las Vegas Raiders
+12944,2022,5,NYJ,MIA,40,17,REG,New York Jets,Miami Dolphins
+13116,2022,5,GB,NYG,22,27,REG,Green Bay Packers,New York Giants
+13285,2022,5,ARI,PHI,17,20,REG,Arizona Cardinals,Philadelphia Eagles
+13469,2022,5,BUF,PIT,38,3,REG,Buffalo Bills,Pittsburgh Steelers
+13641,2022,5,NO,SEA,39,32,REG,New Orleans Saints,Seattle Seahawks
+13830,2022,5,CAR,SF,15,37,REG,Carolina Panthers,San Francisco 49ers
+14012,2022,5,WAS,TEN,17,21,REG,Washington Football Team,Tennessee Titans
+14187,2022,6,SEA,ARI,19,9,REG,Seattle Seahawks,Arizona Cardinals
+14374,2022,6,NYG,BAL,24,20,REG,New York Giants,Baltimore Ravens
+14543,2022,6,KC,BUF,20,24,REG,Kansas City Chiefs,Buffalo Bills
+14725,2022,6,LA,CAR,24,10,REG,Los Angeles Rams,Carolina Panthers
+14879,2022,6,NO,CIN,26,30,REG,New Orleans Saints,Cincinnati Bengals
+15055,2022,6,PHI,DAL,26,17,REG,Philadelphia Eagles,Dallas Cowboys
+15231,2022,6,LAC,DEN,19,16,REG,Los Angeles Chargers,Denver Broncos
+15435,2022,6,IND,JAX,34,27,REG,Indianapolis Colts,Jacksonville Jaguars
+15620,2022,6,MIA,MIN,16,24,REG,Miami Dolphins,Minnesota Vikings
+15799,2022,6,CLE,NE,15,38,REG,Cleveland Browns,New England Patriots
+15987,2022,6,GB,NYJ,10,27,REG,Green Bay Packers,New York Jets
+16161,2022,6,ATL,SF,28,14,REG,Atlanta Falcons,San Francisco 49ers
+16325,2022,6,PIT,TB,20,18,REG,Pittsburgh Steelers,Tampa Bay Buccaneers
+16510,2022,6,CHI,WAS,7,12,REG,Chicago Bears,Washington Football Team
+16694,2022,7,CIN,ATL,35,17,REG,Cincinnati Bengals,Atlanta Falcons
+16851,2022,7,NE,CHI,14,33,REG,New England Patriots,Chicago Bears
+17014,2022,7,BAL,CLE,23,20,REG,Baltimore Ravens,Cleveland Browns
+17183,2022,7,DAL,DET,24,6,REG,Dallas Cowboys,Detroit Lions
+17344,2022,7,WAS,GB,23,21,REG,Washington Football Team,Green Bay Packers
+17518,2022,7,LV,HOU,38,20,REG,Las Vegas Raiders,Houston Texans
+17681,2022,7,TEN,IND,19,10,REG,Tennessee Titans,Indianapolis Colts
+17841,2022,7,SF,KC,23,44,REG,San Francisco 49ers,Kansas City Chiefs
+18028,2022,7,ARI,NO,42,34,REG,Arizona Cardinals,New Orleans Saints
+18218,2022,7,JAX,NYG,17,23,REG,Jacksonville Jaguars,New York Giants
+18410,2022,7,DEN,NYJ,9,16,REG,Denver Broncos,New York Jets
+18593,2022,7,MIA,PIT,16,10,REG,Miami Dolphins,Pittsburgh Steelers
+18773,2022,7,LAC,SEA,23,37,REG,Los Angeles Chargers,Seattle Seahawks
+18959,2022,7,CAR,TB,21,3,REG,Carolina Panthers,Tampa Bay Buccaneers
+19113,2022,8,MIN,ARI,34,26,REG,Minnesota Vikings,Arizona Cardinals
+19312,2022,8,TB,BAL,22,27,REG,Tampa Bay Buccaneers,Baltimore Ravens
+19504,2022,8,ATL,CAR,37,34,REG,Atlanta Falcons,Carolina Panthers
+19711,2022,8,DAL,CHI,49,29,REG,Dallas Cowboys,Chicago Bears
+19895,2022,8,CLE,CIN,32,13,REG,Cleveland Browns,Cincinnati Bengals
+20060,2022,8,JAX,DEN,17,21,REG,Jacksonville Jaguars,Denver Broncos
+20240,2022,8,BUF,GB,27,17,REG,Buffalo Bills,Green Bay Packers
+20405,2022,8,NO,LV,24,0,REG,New Orleans Saints,Las Vegas Raiders
+20564,2022,8,DET,MIA,27,31,REG,Detroit Lions,Miami Dolphins
+20731,2022,8,NYJ,NE,17,22,REG,New York Jets,New England Patriots
+20914,2022,8,SEA,NYG,27,13,REG,Seattle Seahawks,New York Giants
+21090,2022,8,PHI,PIT,35,13,REG,Philadelphia Eagles,Pittsburgh Steelers
+21265,2022,8,LA,SF,14,31,REG,Los Angeles Rams,San Francisco 49ers
+21414,2022,8,HOU,TEN,10,17,REG,Houston Texans,Tennessee Titans
+21572,2022,8,IND,WAS,16,17,REG,Indianapolis Colts,Washington Football Team
+21731,2022,9,NO,BAL,13,27,REG,New Orleans Saints,Baltimore Ravens
+21895,2022,9,NYJ,BUF,20,17,REG,New York Jets,Buffalo Bills
+22058,2022,9,CIN,CAR,42,21,REG,Cincinnati Bengals,Carolina Panthers
+22224,2022,9,DET,GB,15,9,REG,Detroit Lions,Green Bay Packers
+22389,2022,9,NE,IND,26,3,REG,New England Patriots,Indianapolis Colts
+22562,2022,9,ATL,LAC,17,20,REG,Atlanta Falcons,Los Angeles Chargers
+22732,2022,9,TB,LA,16,13,REG,Tampa Bay Buccaneers,Los Angeles Rams
+22924,2022,9,JAX,LV,27,20,REG,Jacksonville Jaguars,Las Vegas Raiders
+23098,2022,9,CHI,MIA,32,35,REG,Chicago Bears,Miami Dolphins
+23282,2022,9,WAS,MIN,17,20,REG,Washington Football Team,Minnesota Vikings
+23456,2022,9,HOU,PHI,17,29,REG,Houston Texans,Philadelphia Eagles
+23621,2022,9,ARI,SEA,21,31,REG,Arizona Cardinals,Seattle Seahawks
+23807,2022,9,KC,TEN,20,17,REG,Kansas City Chiefs,Tennessee Titans
+24007,2022,10,LA,ARI,17,27,REG,Los Angeles Rams,Arizona Cardinals
+24186,2022,10,CAR,ATL,25,15,REG,Carolina Panthers,Atlanta Falcons
+24364,2022,10,MIA,CLE,39,17,REG,Miami Dolphins,Cleveland Browns
+24536,2022,10,GB,DAL,31,28,REG,Green Bay Packers,Dallas Cowboys
+24733,2022,10,TEN,DEN,17,10,REG,Tennessee Titans,Denver Broncos
+24925,2022,10,CHI,DET,30,31,REG,Chicago Bears,Detroit Lions
+25104,2022,10,NYG,HOU,24,16,REG,New York Giants,Houston Texans
+25286,2022,10,LV,IND,20,25,REG,Las Vegas Raiders,Indianapolis Colts
+25459,2022,10,KC,JAX,27,17,REG,Kansas City Chiefs,Jacksonville Jaguars
+25626,2022,10,SF,LAC,22,16,REG,San Francisco 49ers,Los Angeles Chargers
+25801,2022,10,BUF,MIN,30,33,REG,Buffalo Bills,Minnesota Vikings
+26016,2022,10,PIT,NO,20,10,REG,Pittsburgh Steelers,New Orleans Saints
+26187,2022,10,TB,SEA,21,16,REG,Tampa Bay Buccaneers,Seattle Seahawks
+26353,2022,10,PHI,WAS,21,32,REG,Philadelphia Eagles,Washington Football Team
+26530,2022,11,BAL,CAR,13,3,REG,Baltimore Ravens,Carolina Panthers
+26701,2022,11,ATL,CHI,27,24,REG,Atlanta Falcons,Chicago Bears
+26868,2022,11,PIT,CIN,30,37,REG,Pittsburgh Steelers,Cincinnati Bengals
+27067,2022,11,BUF,CLE,31,23,REG,Buffalo Bills,Cleveland Browns
+27257,2022,11,MIN,DAL,3,40,REG,Minnesota Vikings,Dallas Cowboys
+27432,2022,11,NYG,DET,18,31,REG,New York Giants,Detroit Lions
+27617,2022,11,LAC,KC,27,30,REG,Los Angeles Chargers,Kansas City Chiefs
+27794,2022,11,NO,LA,27,20,REG,New Orleans Saints,Los Angeles Rams
+27964,2022,11,DEN,LV,16,22,REG,Denver Broncos,Las Vegas Raiders
+28143,2022,11,NE,NYJ,10,3,REG,New England Patriots,New York Jets
+28307,2022,11,IND,PHI,16,17,REG,Indianapolis Colts,Philadelphia Eagles
+28482,2022,11,ARI,SF,10,38,REG,Arizona Cardinals,San Francisco 49ers
+28650,2022,11,GB,TEN,17,27,REG,Green Bay Packers,Tennessee Titans
+28814,2022,11,HOU,WAS,10,23,REG,Houston Texans,Washington Football Team
+28982,2022,12,WAS,ATL,19,13,REG,Washington Football Team,Atlanta Falcons
+29140,2022,12,JAX,BAL,28,27,REG,Jacksonville Jaguars,Baltimore Ravens
+29322,2022,12,DET,BUF,25,28,REG,Detroit Lions,Buffalo Bills
+29511,2022,12,NYJ,CHI,31,10,REG,New York Jets,Chicago Bears
+29670,2022,12,TEN,CIN,16,20,REG,Tennessee Titans,Cincinnati Bengals
+29842,2022,12,CAR,DEN,23,10,REG,Carolina Panthers,Denver Broncos
+30014,2022,12,PHI,GB,40,33,REG,Philadelphia Eagles,Green Bay Packers
+30192,2022,12,MIA,HOU,30,15,REG,Miami Dolphins,Houston Texans
+30374,2022,12,ARI,LAC,24,25,REG,Arizona Cardinals,Los Angeles Chargers
+30551,2022,12,KC,LA,26,10,REG,Kansas City Chiefs,Los Angeles Rams
+30722,2022,12,SEA,LV,34,40,REG,Seattle Seahawks,Las Vegas Raiders
+30916,2022,12,MIN,NE,33,26,REG,Minnesota Vikings,New England Patriots
+31090,2022,12,SF,NO,13,0,REG,San Francisco 49ers,New Orleans Saints
+31250,2022,12,DAL,NYG,28,20,REG,Dallas Cowboys,New York Giants
+31434,2022,12,IND,PIT,17,24,REG,Indianapolis Colts,Pittsburgh Steelers
+31607,2022,12,CLE,TB,23,17,REG,Cleveland Browns,Tampa Bay Buccaneers
+31808,2022,13,NE,BUF,10,24,REG,New England Patriots,Buffalo Bills
+31976,2022,13,HOU,CLE,14,27,REG,Houston Texans,Cleveland Browns
+32151,2022,13,BAL,DEN,10,9,REG,Baltimore Ravens,Denver Broncos
+32321,2022,13,CHI,GB,19,28,REG,Chicago Bears,Green Bay Packers
+32493,2022,13,DAL,IND,54,19,REG,Dallas Cowboys,Indianapolis Colts
+32676,2022,13,DET,JAX,40,14,REG,Detroit Lions,Jacksonville Jaguars
+32849,2022,13,CIN,KC,27,24,REG,Cincinnati Bengals,Kansas City Chiefs
+33015,2022,13,LV,LAC,27,20,REG,Las Vegas Raiders,Los Angeles Chargers
+33199,2022,13,SF,MIA,33,17,REG,San Francisco 49ers,Miami Dolphins
+33379,2022,13,TB,NO,17,16,REG,Tampa Bay Buccaneers,New Orleans Saints
+33560,2022,13,MIN,NYJ,27,22,REG,Minnesota Vikings,New York Jets
+33762,2022,13,ATL,PIT,16,19,REG,Atlanta Falcons,Pittsburgh Steelers
+33925,2022,13,LA,SEA,23,27,REG,Los Angeles Rams,Seattle Seahawks
+34104,2022,13,PHI,TEN,35,10,REG,Philadelphia Eagles,Tennessee Titans
+34284,2022,13,NYG,WAS,20,20,REG,New York Giants,Washington Football Team
+34488,2022,14,PIT,BAL,14,16,REG,Pittsburgh Steelers,Baltimore Ravens
+34639,2022,14,SEA,CAR,24,30,REG,Seattle Seahawks,Carolina Panthers
+34809,2022,14,CIN,CLE,23,10,REG,Cincinnati Bengals,Cleveland Browns
+34989,2022,14,DAL,HOU,27,23,REG,Dallas Cowboys,Houston Texans
+35173,2022,14,TEN,JAX,22,36,REG,Tennessee Titans,Jacksonville Jaguars
+35356,2022,14,DEN,KC,28,34,REG,Denver Broncos,Kansas City Chiefs
+35546,2022,14,LA,LV,17,16,REG,Los Angeles Rams,Las Vegas Raiders
+35712,2022,14,LAC,MIA,23,17,REG,Los Angeles Chargers,Miami Dolphins
+35892,2022,14,DET,MIN,34,23,REG,Detroit Lions,Minnesota Vikings
+36075,2022,14,ARI,NE,13,27,REG,Arizona Cardinals,New England Patriots
+36254,2022,14,BUF,NYJ,20,12,REG,Buffalo Bills,New York Jets
+36435,2022,14,NYG,PHI,22,48,REG,New York Giants,Philadelphia Eagles
+36611,2022,14,SF,TB,35,7,REG,San Francisco 49ers,Tampa Bay Buccaneers
+36788,2022,15,DEN,ARI,24,15,REG,Denver Broncos,Arizona Cardinals
+36967,2022,15,NO,ATL,21,18,REG,New Orleans Saints,Atlanta Falcons
+37137,2022,15,CLE,BAL,13,3,REG,Cleveland Browns,Baltimore Ravens
+37300,2022,15,TB,CIN,23,34,REG,Tampa Bay Buccaneers,Cincinnati Bengals
+37482,2022,15,JAX,DAL,40,34,REG,Jacksonville Jaguars,Dallas Cowboys
+37680,2022,15,NYJ,DET,17,20,REG,New York Jets,Detroit Lions
+37854,2022,15,MIN,IND,39,36,REG,Minnesota Vikings,Indianapolis Colts
+38097,2022,15,HOU,KC,24,30,REG,Houston Texans,Kansas City Chiefs
+38283,2022,15,GB,LA,24,12,REG,Green Bay Packers,Los Angeles Rams
+38439,2022,15,BUF,MIA,32,29,REG,Buffalo Bills,Miami Dolphins
+38627,2022,15,LV,NE,30,24,REG,Las Vegas Raiders,New England Patriots
+38818,2022,15,WAS,NYG,12,20,REG,Washington Football Team,New York Giants
+38989,2022,15,CHI,PHI,20,25,REG,Chicago Bears,Philadelphia Eagles
+39179,2022,15,CAR,PIT,16,24,REG,Carolina Panthers,Pittsburgh Steelers
+39337,2022,15,SEA,SF,13,21,REG,Seattle Seahawks,San Francisco 49ers
+39509,2022,15,LAC,TEN,17,14,REG,Los Angeles Chargers,Tennessee Titans
+39688,2022,16,BAL,ATL,17,9,REG,Baltimore Ravens,Atlanta Falcons
+39846,2022,16,CHI,BUF,13,35,REG,Chicago Bears,Buffalo Bills
+40025,2022,16,NE,CIN,18,22,REG,New England Patriots,Cincinnati Bengals
+40212,2022,16,LA,DEN,51,14,REG,Los Angeles Rams,Denver Broncos
+40384,2022,16,CAR,DET,37,23,REG,Carolina Panthers,Detroit Lions
+40565,2022,16,MIA,GB,20,26,REG,Miami Dolphins,Green Bay Packers
+40727,2022,16,TEN,HOU,14,19,REG,Tennessee Titans,Houston Texans
+40897,2022,16,NYJ,JAX,3,19,REG,New York Jets,Jacksonville Jaguars
+41071,2022,16,IND,LAC,3,20,REG,Indianapolis Colts,Los Angeles Chargers
+41225,2022,16,PIT,LV,13,10,REG,Pittsburgh Steelers,Las Vegas Raiders
+41383,2022,16,CLE,NO,10,17,REG,Cleveland Browns,New Orleans Saints
+41545,2022,16,MIN,NYG,27,24,REG,Minnesota Vikings,New York Giants
+41732,2022,16,DAL,PHI,40,34,REG,Dallas Cowboys,Philadelphia Eagles
+41923,2022,16,KC,SEA,24,10,REG,Kansas City Chiefs,Seattle Seahawks
+42095,2022,16,ARI,TB,16,19,REG,Arizona Cardinals,Tampa Bay Buccaneers
+42306,2022,16,SF,WAS,37,20,REG,San Francisco 49ers,Washington Football Team
+42478,2022,17,ATL,ARI,20,19,REG,Atlanta Falcons,Arizona Cardinals
+42660,2022,17,TB,CAR,30,24,REG,Tampa Bay Buccaneers,Carolina Panthers
+42855,2022,17,DET,CHI,41,10,REG,Detroit Lions,Chicago Bears
+43023,2022,17,WAS,CLE,10,24,REG,Washington Football Team,Cleveland Browns
+43188,2022,17,TEN,DAL,13,27,REG,Tennessee Titans,Dallas Cowboys
+43372,2022,17,KC,DEN,27,24,REG,Kansas City Chiefs,Denver Broncos
+43544,2022,17,NYG,IND,38,10,REG,New York Giants,Indianapolis Colts
+43700,2022,17,HOU,JAX,3,31,REG,Houston Texans,Jacksonville Jaguars
+43870,2022,17,LAC,LA,31,10,REG,Los Angeles Chargers,Los Angeles Rams
+44020,2022,17,NE,MIA,23,21,REG,New England Patriots,Miami Dolphins
+44201,2022,17,GB,MIN,41,17,REG,Green Bay Packers,Minnesota Vikings
+44369,2022,17,PHI,NO,10,20,REG,Philadelphia Eagles,New Orleans Saints
+44539,2022,17,SEA,NYJ,23,6,REG,Seattle Seahawks,New York Jets
+44726,2022,17,BAL,PIT,13,16,REG,Baltimore Ravens,Pittsburgh Steelers
+44887,2022,17,LV,SF,34,37,REG,Las Vegas Raiders,San Francisco 49ers
+45074,2022,18,SF,ARI,38,13,REG,San Francisco 49ers,Arizona Cardinals
+45229,2022,18,CIN,BAL,27,16,REG,Cincinnati Bengals,Baltimore Ravens
+45418,2022,18,NO,CAR,7,10,REG,New Orleans Saints,Carolina Panthers
+45572,2022,18,PIT,CLE,28,14,REG,Pittsburgh Steelers,Cleveland Browns
+45749,2022,18,WAS,DAL,26,6,REG,Washington Football Team,Dallas Cowboys
+45928,2022,18,GB,DET,16,20,REG,Green Bay Packers,Detroit Lions
+46095,2022,18,IND,HOU,31,32,REG,Indianapolis Colts,Houston Texans
+46280,2022,18,LV,KC,13,31,REG,Las Vegas Raiders,Kansas City Chiefs
+46447,2022,18,DEN,LAC,31,28,REG,Denver Broncos,Los Angeles Chargers
+46625,2022,18,SEA,LA,19,16,REG,Seattle Seahawks,Los Angeles Rams
+46812,2022,18,CHI,MIN,13,29,REG,Chicago Bears,Minnesota Vikings
+46996,2022,18,BUF,NE,35,23,REG,Buffalo Bills,New England Patriots
+47162,2022,18,PHI,NYG,22,16,REG,Philadelphia Eagles,New York Giants
+47348,2022,18,MIA,NYJ,11,6,REG,Miami Dolphins,New York Jets
+47510,2022,18,ATL,TB,30,17,REG,Atlanta Falcons,Tampa Bay Buccaneers
+47674,2022,18,JAX,TEN,20,16,REG,Jacksonville Jaguars,Tennessee Titans
+47841,2022,19,CIN,BAL,24,17,POST,Cincinnati Bengals,Baltimore Ravens
+48008,2022,19,TB,DAL,14,31,POST,Tampa Bay Buccaneers,Dallas Cowboys
+48198,2022,19,JAX,LAC,31,30,POST,Jacksonville Jaguars,Los Angeles Chargers
+48389,2022,19,BUF,MIA,34,31,POST,Buffalo Bills,Miami Dolphins
+48594,2022,19,MIN,NYG,24,31,POST,Minnesota Vikings,New York Giants
+48763,2022,19,SF,SEA,41,23,POST,San Francisco 49ers,Seattle Seahawks
+48939,2022,20,BUF,CIN,10,27,POST,Buffalo Bills,Cincinnati Bengals
+49116,2022,20,SF,DAL,19,12,POST,San Francisco 49ers,Dallas Cowboys
+49290,2022,20,KC,JAX,27,20,POST,Kansas City Chiefs,Jacksonville Jaguars
+49464,2022,20,PHI,NYG,38,7,POST,Philadelphia Eagles,New York Giants
+49631,2022,21,KC,CIN,23,20,POST,Kansas City Chiefs,Cincinnati Bengals
+49812,2022,21,PHI,SF,31,7,POST,Philadelphia Eagles,San Francisco 49ers
+49969,2022,22,PHI,KC,35,38,POST,Philadelphia Eagles,Kansas City Chiefs

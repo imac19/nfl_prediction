@@ -1,0 +1,67 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep  7 18:14:45 2023
+
+@author: ian
+"""
+
+# Import packages
+
+import pandas as pd 
+import numpy as np 
+import os
+
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import cross_validate
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import confusion_matrix
+
+import plotly.express as px
+
+import xgboost as xgb
+
+from joblib import dump, load
+
+pd.set_option('display.max_columns', None)
+
+stats = pd.read_csv('../pipeline_season_testing/data/07_seasontest_adjusted_value_models_aggregated.csv')
+schedule = pd.read_csv('../data/schedule_final.csv')
+betting = pd.read_csv('../data/betting_data_cleaned_with_returns.csv')
+betting = betting.drop(columns=['Unnamed: 0'])
+current_week = pd.read_csv('../pipeline_season_testing/data/04_seasontest_current_week_data.csv')
+
+def get_implied_probability(odds):
+    if odds > 0:
+        return (100/(odds + 100))
+    else:
+        return (-odds/(-odds + 100))
+
+stats = stats.dropna()
+
+nfl = current_week.copy()
+nfl = nfl.merge(stats.add_suffix('_home'), how='left', left_on = ['season', 'week', 'home_full_name', 'home_qb'], 
+                right_on = ['season_home', 'week_home', 'team_full_home', 'qb_home'])
+nfl = nfl.merge(stats.add_suffix('_away'), how='left', left_on = ['season', 'week', 'away_full_name', 'away_qb'], 
+                right_on = ['season_away', 'week_away', 'team_full_away', 'qb_away'])
+nfl['home_spread'] = -nfl['away_spread']
+nfl['total_score_line'] = nfl['over_under']
+nfl['home_implied_prob'] = nfl.apply(lambda x: get_implied_probability(x.home_moneyline), axis=1)
+nfl['away_implied_prob'] = nfl.apply(lambda x: get_implied_probability(x.away_moneyline), axis=1)
+nfl = nfl[['season', 'week','home', 'away', 'home_qb', 'away_qb',
+          'passing_value_adjusted_home', 'rushing_value_adjusted_home', 'pass_def_value_adjusted_home', 'rush_def_value_adjusted_home', 'special_teams_value_home',
+          'passing_value_adjusted_away', 'rushing_value_adjusted_away', 'pass_def_value_adjusted_away', 'rush_def_value_adjusted_away', 'special_teams_value_away',
+          'total_possession_time_standardized_home', 'total_possession_time_standardized_away', 
+          'total_plays_standardized_home', 'total_plays_standardized_away',
+          'pass_percentage_standardized_home', 'pass_percentage_standardized_away',
+          'home_moneyline', 'away_moneyline', 'home_spread', 'away_spread', 'total_score_line',
+          'home_implied_prob', 'away_implied_prob']]
+nfl.head()
+
+
+nfl.to_csv('data/final_predictive_dataframe.csv')
+
+print('08_create_final_predictive_dataframe Complete')
