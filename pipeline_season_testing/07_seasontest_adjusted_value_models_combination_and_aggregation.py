@@ -149,18 +149,18 @@ def weighted_avg(values):
 #     return np.sum(weights * values)
 
 
-offense_base = df.copy()[['season', 'week', 'team', 'qb']]
-defense_base = df.copy()[['season', 'week', 'team']]
+offense_base = df.copy()[['season', 'week', 'team_full', 'qb']]
+defense_base = df.copy()[['season', 'week', 'team_full']]
 
-offense_rolling = df[['team', 'qb', 'passing_value_adjusted', 'rushing_value_adjusted',
+offense_rolling = df[['team_full', 'qb', 'passing_value_adjusted', 'rushing_value_adjusted',
                      'total_plays_standardized', 'total_possession_time_standardized', 
                      'pass_percentage_standardized']]
-offense_rolling = offense_rolling.groupby(by=['team', 'qb']).rolling(
-    5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team', 'qb'], drop=True)
+offense_rolling = offense_rolling.groupby(by=['team_full', 'qb']).rolling(
+    5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team_full', 'qb'], drop=True)
 
-defense_rolling = df[['team', 'pass_def_value_adjusted', 'rush_def_value_adjusted', 'special_teams_value']]
-defense_rolling = defense_rolling.groupby(by=['team']).rolling(
-    5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team'], drop=True)
+defense_rolling = df[['team_full', 'pass_def_value_adjusted', 'rush_def_value_adjusted', 'special_teams_value']]
+defense_rolling = defense_rolling.groupby(by=['team_full']).rolling(
+    5, closed='left', min_periods=1).apply(lambda x: weighted_avg(x)).reset_index(level=['team_full'], drop=True)
 
 offense = offense_base.join(offense_rolling)
 defense = defense_base.join(defense_rolling).dropna()
@@ -169,7 +169,7 @@ combined = offense.merge(defense, how='left')
 
 # fix team names
 
-combined['team_full'] = combined.apply(lambda x: fix_team_names(x, is_team=True), axis=1)
+# combined['team_full'] = combined.apply(lambda x: fix_team_names(x, is_team=True), axis=1)
 
 # Save aggregated data frame with values
 
