@@ -16,7 +16,7 @@ import os
 
 # UPDATE THIS before each run
 
-current_week = 1
+current_week = 2
 current_season = 2023
 
 qbs = pd.read_csv('data/03_seasontest_team_primary_qb_lookup_table.csv')
@@ -110,7 +110,7 @@ qb_dict['Miami Dolphins'] = 'T. Tagovailoa'
 # qb_dict['New England Patriots'] = 'Mac Jones'
 qb_dict['New Orleans Saints'] = 'D. Carr'
 qb_dict['New York Giants'] = 'D. Jones'
-qb_dict['New York Jets'] = 'A. Rodgers'
+qb_dict['New York Jets'] = 'Z. Wilson'
 # qb_dict['Philadelphia Eagles'] = 'Jalen Hurts'
 # qb_dict['Pittsburgh Steelers'] = 'Kenny Pickett'
 # qb_dict['San Francisco 49ers'] = 'Jimmy Garoppolo'
@@ -136,38 +136,38 @@ for team, qb in qb_dict.items():
 # 'season', 'week', 'away', 'home', 'away_moneyline', 'home_moneyline', 'away_spread', 'over_under'
 
 manual_input = {
-    # '{}{}{}'.format(current_season, current_week, 1): [current_season, current_week, 'DET','KC',
-    #                                                   185, -225, 4.5, 52.5],
-    '{}{}{}'.format(current_season, current_week, 2): [current_season, current_week, 'TB','MIN',
-                                                      170, -205, 4.5, 45.5],
-    '{}{}{}'.format(current_season, current_week, 3): [current_season, current_week, 'SF','PIT',
-                                                      -125, -105, -2, 41.5],
-    '{}{}{}'.format(current_season, current_week, 4): [current_season, current_week, 'HOU','BAL',
-                                                      380, -500, 9.5, 43.5],
-    '{}{}{}'.format(current_season, current_week, 5): [current_season, current_week, 'JAX','IND',
-                                                      -205, 170, -3.5, 46],
-    '{}{}{}'.format(current_season, current_week, 6): [current_season, current_week, 'CIN','CLE',
-                                                      -122, 102, -1.5, 47],
-    '{}{}{}'.format(current_season, current_week, 7): [current_season, current_week, 'TEN','NO',
-                                                      124, -148, 3, 42],
-    '{}{}{}'.format(current_season, current_week, 8): [current_season, current_week, 'ARI','WAS',
-                                                      270, -340, 7, 38],
-    '{}{}{}'.format(current_season, current_week, 9): [current_season, current_week, 'CAR','ATL',
-                                                      160, -192, 3.5, 40.5],
-    '{}{}{}'.format(current_season, current_week, 10): [current_season, current_week, 'PHI','NE',
-                                                      -185, 154, -3.5, 44.5],
-    '{}{}{}'.format(current_season, current_week, 11): [current_season, current_week, 'MIA','LAC',
-                                                      136, -162, 3, 51],
-    '{}{}{}'.format(current_season, current_week, 12): [current_season, current_week, 'LAR','SEA',
-                                                      185, -225, 5, 46],
-    '{}{}{}'.format(current_season, current_week, 13): [current_season, current_week, 'GB','CHI',
-                                                      -102, -118, 1, 41],
-    '{}{}{}'.format(current_season, current_week, 14): [current_season, current_week, 'LV','DEN',
-                                                      142, -170, 3.5, 43.5],
-    '{}{}{}'.format(current_season, current_week, 15): [current_season, current_week, 'DAL','NYG',
-                                                      -166, 140, -3, 45],
-    '{}{}{}'.format(current_season, current_week, 16): [current_season, current_week, 'BUF','NYJ',
-                                                       -135, 114, -2.5, 45.5]
+    '{}{}{}'.format(current_season, current_week, 1): [current_season, current_week, 'MIN','PHI',
+                                                      235, -290, 6.5, 49],
+    '{}{}{}'.format(current_season, current_week, 2): [current_season, current_week, 'KC','JAX',
+                                                      -155, 130, -3, 51],
+    '{}{}{}'.format(current_season, current_week, 3): [current_season, current_week, 'LV','BUF',
+                                                      300, -380, 8.5, 46.5],
+    '{}{}{}'.format(current_season, current_week, 4): [current_season, current_week, 'BAL','CIN',
+                                                      142, -170, 3, 46.5],
+    '{}{}{}'.format(current_season, current_week, 5): [current_season, current_week, 'LAC','TEN',
+                                                      -162, 136, -3, 46],
+    '{}{}{}'.format(current_season, current_week, 6): [current_season, current_week, 'SEA','DET',
+                                                      195, -238, 5.5, 47.5],
+    '{}{}{}'.format(current_season, current_week, 7): [current_season, current_week, 'CHI','TB',
+                                                      124, -148, 3, 41],
+    '{}{}{}'.format(current_season, current_week, 8): [current_season, current_week, 'GB','ATL',
+                                                      -125, 105, -2, 40.5],
+    '{}{}{}'.format(current_season, current_week, 9): [current_season, current_week, 'IND','HOU',
+                                                      -122, 102, -1.5, 40],
+    '{}{}{}'.format(current_season, current_week, 10): [current_season, current_week, 'SF','LAR',
+                                                      -345, 275, -7.5, 44],
+    '{}{}{}'.format(current_season, current_week, 11): [current_season, current_week, 'NYG','ARI',
+                                                      -218, 180, -5.5, 40],
+    '{}{}{}'.format(current_season, current_week, 12): [current_season, current_week, 'NYJ','DAL',
+                                                      330, -425, 9.5, 40],
+    '{}{}{}'.format(current_season, current_week, 13): [current_season, current_week, 'WAS','DEN',
+                                                      145, -175, 3.5, 38.5],
+    '{}{}{}'.format(current_season, current_week, 14): [current_season, current_week, 'MIA','NE',
+                                                      -142, 120, -2.5, 46.5],
+    '{}{}{}'.format(current_season, current_week, 15): [current_season, current_week, 'NO','CAR',
+                                                      -166, 140, -3.5, 40],
+    '{}{}{}'.format(current_season, current_week, 16): [current_season, current_week, 'CLE','PIT',
+                                                       -125, 105, -2, 39.5]
 }
 
 

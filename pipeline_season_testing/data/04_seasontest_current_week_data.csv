@@ -1,16 +1,17 @@
 ,season,week,away,home,away_moneyline,home_moneyline,away_spread,over_under,home_full_name,away_full_name,home_qb,away_qb
-202312,2023,1,TB,MIN,170,-205,4.5,45.5,Minnesota Vikings,Tampa Bay Buccaneers,K. Cousins,B. Mayfield
-202313,2023,1,SF,PIT,-125,-105,-2.0,41.5,Pittsburgh Steelers,San Francisco 49ers,K. Pickett,B. Purdy
-202314,2023,1,HOU,BAL,380,-500,9.5,43.5,Baltimore Ravens,Houston Texans,L. Jackson,C.J. Stroud
-202315,2023,1,JAX,IND,-205,170,-3.5,46.0,Indianapolis Colts,Jacksonville Jaguars,A. Richardson,T. Lawrence
-202316,2023,1,CIN,CLE,-122,102,-1.5,47.0,Cleveland Browns,Cincinnati Bengals,D. Watson,J. Burrow
-202317,2023,1,TEN,NO,124,-148,3.0,42.0,New Orleans Saints,Tennessee Titans,D. Carr,R. Tannehill
-202318,2023,1,ARI,WAS,270,-340,7.0,38.0,Washington Football Team,Arizona Cardinals,S. Howell,J. Dobbs
-202319,2023,1,CAR,ATL,160,-192,3.5,40.5,Atlanta Falcons,Carolina Panthers,D. Ridder,B. Young
-2023110,2023,1,PHI,NE,-185,154,-3.5,44.5,New England Patriots,Philadelphia Eagles,M. Jones,J. Hurts
-2023111,2023,1,MIA,LAC,136,-162,3.0,51.0,Los Angeles Chargers,Miami Dolphins,J. Herbert,T. Tagovailoa
-2023112,2023,1,LAR,SEA,185,-225,5.0,46.0,Seattle Seahawks,Los Angeles Rams,G. Smith,M. Stafford
-2023113,2023,1,GB,CHI,-102,-118,1.0,41.0,Chicago Bears,Green Bay Packers,J. Fields,J. Love
-2023114,2023,1,LV,DEN,142,-170,3.5,43.5,Denver Broncos,Las Vegas Raiders,R. Wilson,J. Garoppolo
-2023115,2023,1,DAL,NYG,-166,140,-3.0,45.0,New York Giants,Dallas Cowboys,D. Jones,D. Prescott
-2023116,2023,1,BUF,NYJ,-135,114,-2.5,45.5,New York Jets,Buffalo Bills,A. Rodgers,J. Allen
+202321,2023,2,MIN,PHI,235,-290,6.5,49.0,Philadelphia Eagles,Minnesota Vikings,J. Hurts,K. Cousins
+202322,2023,2,KC,JAX,-155,130,-3.0,51.0,Jacksonville Jaguars,Kansas City Chiefs,T. Lawrence,P. Mahomes
+202323,2023,2,LV,BUF,300,-380,8.5,46.5,Buffalo Bills,Las Vegas Raiders,J. Allen,J. Garoppolo
+202324,2023,2,BAL,CIN,142,-170,3.0,46.5,Cincinnati Bengals,Baltimore Ravens,J. Burrow,L. Jackson
+202325,2023,2,LAC,TEN,-162,136,-3.0,46.0,Tennessee Titans,Los Angeles Chargers,R. Tannehill,J. Herbert
+202326,2023,2,SEA,DET,195,-238,5.5,47.5,Detroit Lions,Seattle Seahawks,J. Goff,G. Smith
+202327,2023,2,CHI,TB,124,-148,3.0,41.0,Tampa Bay Buccaneers,Chicago Bears,B. Mayfield,J. Fields
+202328,2023,2,GB,ATL,-125,105,-2.0,40.5,Atlanta Falcons,Green Bay Packers,D. Ridder,J. Love
+202329,2023,2,IND,HOU,-122,102,-1.5,40.0,Houston Texans,Indianapolis Colts,C.J. Stroud,A. Richardson
+2023210,2023,2,SF,LAR,-345,275,-7.5,44.0,Los Angeles Rams,San Francisco 49ers,M. Stafford,B. Purdy
+2023211,2023,2,NYG,ARI,-218,180,-5.5,40.0,Arizona Cardinals,New York Giants,J. Dobbs,D. Jones
+2023212,2023,2,NYJ,DAL,330,-425,9.5,40.0,Dallas Cowboys,New York Jets,D. Prescott,Z. Wilson
+2023213,2023,2,WAS,DEN,145,-175,3.5,38.5,Denver Broncos,Washington Football Team,R. Wilson,S. Howell
+2023214,2023,2,MIA,NE,-142,120,-2.5,46.5,New England Patriots,Miami Dolphins,M. Jones,T. Tagovailoa
+2023215,2023,2,NO,CAR,-166,140,-3.5,40.0,Carolina Panthers,New Orleans Saints,B. Young,D. Carr
+2023216,2023,2,CLE,PIT,-125,105,-2.0,39.5,Pittsburgh Steelers,Cleveland Browns,K. Pickett,D. Watson

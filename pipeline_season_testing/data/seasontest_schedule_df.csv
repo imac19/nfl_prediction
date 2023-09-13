@@ -283,4 +283,19 @@
 49631,2022,21,KC,CIN,23,20,POST,Kansas City Chiefs,Cincinnati Bengals
 49812,2022,21,PHI,SF,31,7,POST,Philadelphia Eagles,San Francisco 49ers
 49969,2022,22,PHI,KC,35,38,POST,Philadelphia Eagles,Kansas City Chiefs
-50147,2023,1,KC,DET,20,21,REG,Kansas City Chiefs,Detroit Lions
+50147,2023,1,WAS,ARI,20,16,REG,Washington Football Team,Arizona Cardinals
+50322,2023,1,NYJ,BUF,22,16,REG,New York Jets,Buffalo Bills
+50489,2023,1,ATL,CAR,24,10,REG,Atlanta Falcons,Carolina Panthers
+50658,2023,1,CLE,CIN,24,3,REG,Cleveland Browns,Cincinnati Bengals
+50831,2023,1,NYG,DAL,0,40,REG,New York Giants,Dallas Cowboys
+50997,2023,1,KC,DET,20,21,REG,Kansas City Chiefs,Detroit Lions
+51176,2023,1,CHI,GB,20,38,REG,Chicago Bears,Green Bay Packers
+51356,2023,1,BAL,HOU,25,9,REG,Baltimore Ravens,Houston Texans
+51541,2023,1,IND,JAX,21,31,REG,Indianapolis Colts,Jacksonville Jaguars
+51723,2023,1,SEA,LA,13,30,REG,Seattle Seahawks,Los Angeles Rams
+51900,2023,1,DEN,LV,16,17,REG,Denver Broncos,Las Vegas Raiders
+52058,2023,1,LAC,MIA,34,36,REG,Los Angeles Chargers,Miami Dolphins
+52249,2023,1,NE,PHI,20,25,REG,New England Patriots,Philadelphia Eagles
+52440,2023,1,PIT,SF,7,30,REG,Pittsburgh Steelers,San Francisco 49ers
+52616,2023,1,MIN,TB,17,20,REG,Minnesota Vikings,Tampa Bay Buccaneers
+52791,2023,1,NO,TEN,16,15,REG,New Orleans Saints,Tennessee Titans
